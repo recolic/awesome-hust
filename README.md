@@ -44,7 +44,7 @@ C课设 [recolic-2017](https://github.com/recolic/chw)
 
 ### CS 大二
 
-汇编实验 [qzwlecr-2018](https://github.com/qzwlecr/80x86-asm-learning)
+汇编实验 [qzwlecr-2018](https://github.com/qzwlecr/80x86-asm-learning) [recolic(非常杂乱)](https://github.com/qzwlecr/80x86-asm-learning)
 
 数电实验 [recolic(not completed)](https://github.com/recolic/hust-digital-electronics-exp)
 
