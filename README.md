@@ -12,6 +12,8 @@
 
 ## 课程实验和报告
 
+> **此部分急需被补充**
+
 ``` python
 # 如何查找适合自己的资料
 if target in ALL_MAJOR:
@@ -28,11 +30,15 @@ else:
 
 大学物理实验的数据处理套装 [Github](https://github.com/recolic/phy-exp) 
 
+大学物理网考答案2017 [recolic](https://recolic.net/tmp/PhyExpExamAnswer.csv)
+
+社会实践报告(匿名) <!--[1]() [2]() [3]() -->
+
 ### CS 大一
 
-C课设 [recolic-2017]()
+C课设 [recolic-2017](https://github.com/recolic/chw)
 
-数据结构实验 [recolic-2017]()
+数据结构实验 [recolic-2017](https://github.com/recolic/hust-ds-homework)
 
 数据结构课设 [recolic-2017](https://github.com/recolic/hust-ds-homework-final)
 
@@ -40,9 +46,9 @@ C课设 [recolic-2017]()
 
 汇编实验 [qzwlecr-2018](https://github.com/qzwlecr/80x86-asm-learning)
 
-数电实验 [recolic-2018]()
+数电实验 [recolic(not completed)](https://github.com/recolic/hust-digital-electronics-exp)
 
-计科verilog实验 [recolic-2018]()
+计科verilog实验 [recolic(not completed)](https://github.com/recolic/hust-verilog-exp)
 
 ### CS 大三或其他
 
