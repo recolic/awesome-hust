@@ -34,6 +34,10 @@ else:
 
 社会实践报告(匿名) <!--[1]() [2]() [3]() -->
 
+### CS 通用
+
+计科大多数实验的代码/报告 [husixu2](https://github.com/husixu1/HUST-Homeworks)
+
 ### CS 大一
 
 C课设 [recolic-2017](https://github.com/recolic/chw)
@@ -50,7 +54,7 @@ C课设 [recolic-2017](https://github.com/recolic/chw)
 
 计科verilog实验 [recolic(not completed)](https://github.com/recolic/hust-verilog-exp)
 
-### CS 大三或其他
+### CS 大三
 
 ### SE
 
@@ -62,10 +66,16 @@ C课设 [recolic-2017](https://github.com/recolic/chw)
 
 微助教自动签到/答题提醒工具 [recolic](https://github.com/recolic/micro-teaching-assistant-fucker) [imzhwk](https://github.com/klx3300/micro-teaching-assistant-fucker)
 
-智享校园DNS劫持指南 [recolic](https://gist.github.com/recolic/d75d94b4ccb8b6c269f386a6e5e19a85)
+智享校园洗澡DNS劫持 [recolic](https://gist.github.com/recolic/d75d94b4ccb8b6c269f386a6e5e19a85)
+
+华科.我爱你(校内链接索引计划) [link](https://华科.我爱你/)
+
+课程表自动导出(hub到ics) [MMMartt](https://github.com/MMMartt/hust-courses-to-ics)
 
 开源的有线校园网认证工具 [minieap](https://github.com/updateing/minieap)
 
-开源的无线校园网认证工具 [hust_wireless.py](https://github.com/haoqixu/hust_wireless) 
+开源的无线校园网认证工具 [hust\_wireless.py](https://github.com/haoqixu/hust_wireless) 
+
+校园网在线充值(银联支付) [recolic.net](https://recolic.net/hustCharge.php)
 
 ### CS/SE only
