@@ -40,21 +40,27 @@ else:
 
 ### CS 大一
 
-C课设 [recolic-2017](https://github.com/recolic/chw)
+C课设 [recolic-2017](https://github.com/recolic/chw) [zxc479773533](https://github.com/zxc479773533/C-curriculum-design)
 
-数据结构实验 [recolic-2017](https://github.com/recolic/hust-ds-homework)
+数据结构实验 [recolic-2017](https://github.com/recolic/hust-ds-homework) [zxc479773533](https://github.com/zxc479773533/HUST-DataStructure-Labs)
 
-数据结构课设 [recolic-2017](https://github.com/recolic/hust-ds-homework-final)
+数据结构课设 [recolic-2017](https://github.com/recolic/hust-ds-homework-final) [zxc479773533-2017](https://github.com/zxc479773533/DS-curriculum-design)
 
 ### CS 大二
 
 汇编实验 [qzwlecr-2018](https://github.com/qzwlecr/80x86-asm-learning) [recolic(非常杂乱)](https://github.com/qzwlecr/80x86-asm-learning)
 
-数电实验 [recolic(not completed)](https://github.com/recolic/hust-digital-electronics-exp)
+数电实验 [recolic](https://github.com/recolic/hust-digital-electronics-exp) [zxc479773533](https://github.com/zxc479773533/HUST-Verilog-Labs)
 
-计科verilog实验 [recolic(not completed)](https://github.com/recolic/hust-verilog-exp)
+计科verilog实验 [recolic](https://github.com/recolic/hust-verilog-exp) [zxc479773533](https://github.com/zxc479773533/HUST-Verilog-Labs)
+
+CSAPP(计算机组成原理)实验 Github资源极多 自行搜索
 
 ### CS 大三
+
+操作系统 [zxc479773533](https://github.com/zxc479773533/HUST-OperatingSystem-Labs)
+
+数据库 [zxc479773533](https://github.com/zxc479773533/HUST-Database-Design)
 
 ### SE
 
@@ -79,3 +85,6 @@ C课设 [recolic-2017](https://github.com/recolic/chw)
 校园网在线充值(银联支付) [recolic.net](https://recolic.net/hustCharge.php)
 
 ### CS/SE only
+
+Vivado Wrapper For Linux CommandLine [vivado-wrapper](https://github.com/recolic/vivado-wrapper)
+
