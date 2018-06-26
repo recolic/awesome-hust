@@ -34,6 +34,8 @@ else:
 
 社会实践报告(匿名) <!--[1]() [2]() [3]() -->
 
+HustLatex模板索引 [hust-latex](https://github.com/hust-latex)
+
 ### CS 通用
 
 计科大多数实验的代码/报告 [husixu2](https://github.com/husixu1/HUST-Homeworks)
