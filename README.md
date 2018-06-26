@@ -34,7 +34,7 @@ else:
 
 社会实践报告(匿名) <!--[1]() [2]() [3]() -->
 
-HustLatex模板索引 [Github](https://github.com/hust-latex) [Website](https://hust-latex.github.io/)
+HustLatex模板库 [Github](https://github.com/hust-latex) [Website](https://hust-latex.github.io/)
 
 ### CS 通用
 
