@@ -86,6 +86,8 @@ CSAPP(计算机组成原理)实验 Github资源极多 自行搜索
 
 校园网在线充值(银联支付) [recolic.net](https://recolic.net/hustCharge.php)
 
+华科电费相关 [在线查询(仅校园网)](http://202.114.18.218/main.aspx) [在线充值(仅校园网)(仅微信,伪造UA无用)(未测试)](http://sdhq.hust.edu.cn/ICBS/mobileweb/html/index.html)
+
 ### CS/SE only
 
 Vivado Wrapper For Linux CommandLine [vivado-wrapper](https://github.com/recolic/vivado-wrapper)
