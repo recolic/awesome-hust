@@ -86,7 +86,7 @@ CSAPP(计算机组成原理)实验 Github资源极多 自行搜索
 
 校园网在线充值(银联支付)(无需校园网) [recolic.net](https://recolic.net/hustCharge.php)
 
-华科电费相关 [在线查询(仅校园网)](http://202.114.18.218/main.aspx) [在线充值(仅校园网)(仅微信,伪造UA无用)(未测试)](http://sdhq.hust.edu.cn/ICBS/mobileweb/html/index.html)
+华科电费相关 [在线查询(仅校园网)](http://202.114.18.218/main.aspx) [在线查询与充值(仅校园网)(仅微信)(仅限绑定华中大微校园的账户)(仅限华科校园卡电子账户支付)](http://sdhq.hust.edu.cn/ICBS/mobileweb/html/index.html)
 
 ### CS/SE only
 
