@@ -30,6 +30,8 @@ else:
 
 大学物理实验的数据处理套装 [Github](https://github.com/recolic/phy-exp) 
 
+大学物理实验（二）的数据处理+图形绘制 with Python（在建中） [Github](https://github.com/LoveThinkinghard/HUST-Physcis-Experiments-Plot-and-Dataprocess/)
+
 大学物理网考答案2017 [recolic](https://recolic.net/tmp/PhyExpExamAnswer.csv)
 
 社会实践报告(匿名) <!--[1]() [2]() [3]() -->
