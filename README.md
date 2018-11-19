@@ -66,6 +66,8 @@ CSAPP(计算机组成原理)实验 Github资源极多 自行搜索
 
 数据库 [zxc479773533](https://github.com/zxc479773533/HUST-Database-Design)
 
+网络 [recolic](https://github.com/recolic/hust-networking)
+
 ### SE
 
 ----
