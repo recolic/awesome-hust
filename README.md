@@ -32,7 +32,7 @@ else:
 
 大学物理实验(二)的数据处理+图形绘制(better but unfinished)  [Jupyter](https://github.com/LoveThinkinghard/HUST-Physcis-Experiments-Plot-and-Dataprocess/)
 
-大学物理网考答案2017 [recolic](https://recolic.net/tmp/PhyExpExamAnswer.csv)
+大学物理网考答案2017 [recolic](https://recolic.net/tmp/PhyExpExamAnswer.csv) [备用下载](https://github.com/recolic/awesome-hust/blob/master/res/PhyExpExamAnswer.csv)
 
 社会实践报告(匿名) <!--[1]() [2]() [3]() -->
 
