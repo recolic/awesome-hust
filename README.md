@@ -28,11 +28,11 @@ else:
 
 ### 全校通用
 
-大学物理实验的数据处理套装 [Github](https://github.com/recolic/phy-exp) 
+大学物理实验的数据处理套装 [Python](https://github.com/recolic/phy-exp) 
 
-大学物理实验（二）的数据处理+图形绘制 with Python（在建中） [Github](https://github.com/LoveThinkinghard/HUST-Physcis-Experiments-Plot-and-Dataprocess/)
+大学物理实验(二)的数据处理+图形绘制(better but unfinished)  [Jupyter](https://github.com/LoveThinkinghard/HUST-Physcis-Experiments-Plot-and-Dataprocess/)
 
-大学物理网考答案2017 [recolic](https://recolic.net/tmp/PhyExpExamAnswer.csv)
+大学物理网考答案2017 [recolic](https://recolic.net/tmp/PhyExpExamAnswer.csv) [备用下载](https://github.com/recolic/awesome-hust/blob/master/res/PhyExpExamAnswer.csv)
 
 社会实践报告(匿名) <!--[1]() [2]() [3]() -->
 
@@ -66,6 +66,8 @@ CSAPP(计算机组成原理)实验 Github资源极多 自行搜索
 
 数据库 [zxc479773533](https://github.com/zxc479773533/HUST-Database-Design)
 
+网络 [recolic](https://github.com/recolic/hust-networking)
+
 ### SE
 
 ----
@@ -82,11 +84,11 @@ CSAPP(计算机组成原理)实验 Github资源极多 自行搜索
 
 课程表自动导出(hub到ics) [MMMartt](https://github.com/MMMartt/hust-courses-to-ics)
 
-开源的有线校园网认证工具 [minieap](https://github.com/updateing/minieap)
+开源的有线校园网认证工具 [minieap](https://github.com/updateing/minieap) [mentohust(ArchWiki)](https://wiki.archlinux.org/index.php/MentoHUST_%28%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87%29)
 
 开源的无线校园网认证工具 [hust\_wireless.py](https://github.com/haoqixu/hust_wireless) 
 
-校园网在线充值(银联支付)(无需校园网) [recolic.net](https://recolic.net/hustCharge.php)
+<!--校园网在线充值(银联支付)(无需校园网) [recolic.net](https://recolic.net/hustCharge.php)-->
 
 华科电费相关 [在线查询(仅校园网)](http://202.114.18.218/main.aspx) [在线查询与充值(仅校园网)(仅微信)(仅限绑定华中大微校园的账户)(仅限华科校园卡电子账户支付)](http://sdhq.hust.edu.cn/ICBS/mobileweb/html/index.html)
 
