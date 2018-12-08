@@ -34,7 +34,9 @@ else:
 
 ![音叉实验](https://github.com/LoveThinkinghard/HUST-Physcis-Experiments-Plot-and-Dataprocess/blob/master/%E9%9F%B3%E5%8F%89%E5%AE%9E%E9%AA%8C/damped.png)![偏振与双折射](https://github.com/LoveThinkinghard/HUST-Physcis-Experiments-Plot-and-Dataprocess/blob/master/%E5%81%8F%E6%8C%AF%E4%B8%8E%E5%8F%8C%E6%8A%98%E5%B0%84/I-%CE%B8%20on%20polor%20axis.png)
 
-大学物理网考答案2017 [recolic](https://recolic.net/tmp/PhyExpExamAnswer.csv) [备用下载](https://github.com/recolic/awesome-hust/blob/master/res/PhyExpExamAnswer.csv)
+大学物理网考答案2017 [recolic](https://recolic.net/tmp/PhyExpExamAnswer.csv) [备用下载](https://github.com/recolic/awesome-hust/blob/master/res/PhyExpExamAnswer.csv) 
+
+大学物理网考答案2018 [Google Drive](https://drive.google.com/open?id=1ARU0SRNioxBsF-JvCaovrrUceOjkFpUt)
 
 社会实践报告(匿名) <!--[1]() [2]() [3]() -->
 
