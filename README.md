@@ -89,7 +89,7 @@ CSAPP(计算机组成原理)实验 Github资源极多 自行搜索
 
 微助教自动签到/答题提醒工具 [recolic](https://github.com/recolic/micro-teaching-assistant-fucker) [imzhwk](https://github.com/klx3300/micro-teaching-assistant-fucker)
 
-蓝墨云课堂自动签到 [3b295](https://github.com/3b295/mosoteach_checkin)
+蓝墨云课堂自动签到 [3b295](https://github.com/3b295/mosoteach_checkin) [Aliloli(带教程)](https://github.com/Aliloli/go_moso)
 
 智享校园洗澡DNS劫持 [recolic](https://gist.github.com/recolic/d75d94b4ccb8b6c269f386a6e5e19a85)
 
