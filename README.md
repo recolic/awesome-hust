@@ -91,6 +91,8 @@ CSAPP(计算机组成原理)实验 Github资源极多 自行搜索
 
 蓝墨云课堂自动签到 [3b295](https://github.com/3b295/mosoteach_checkin) [Ailoli(带教程)](https://github.com/Ailoli/go_moso)
 
+创高体育打卡脚本 [Letra312](https://github.com/Letra312/chuanggao-checkIn)
+
 智享校园洗澡DNS劫持 [recolic](https://gist.github.com/recolic/d75d94b4ccb8b6c269f386a6e5e19a85)
 
 华科.我爱你(校内链接索引计划) [link](https://华科.我爱你/)
@@ -107,5 +109,5 @@ CSAPP(计算机组成原理)实验 Github资源极多 自行搜索
 
 ### CS/SE only
 
-Vivado Wrapper For Linux CommandLine [vivado-wrapper](https://github.com/recolic/vivado-wrapper)
+Vivado Wrapper For Linux CommandLine [vivado-wrapper](https://github.com/recolic/vivado-wrapper) [AUR](https://aur.archlinux.org/packages/vivado-wrapper)
 
