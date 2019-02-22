@@ -111,3 +111,9 @@ CSAPP(计算机组成原理)实验 Github资源极多 自行搜索
 
 Vivado Wrapper For Linux CommandLine [vivado-wrapper](https://github.com/recolic/vivado-wrapper) [AUR](https://aur.archlinux.org/packages/vivado-wrapper)
 
+## 捐助
+
+> 在此仓库中有收录的项目作者均可在此添加一个通往捐助页面的链接。
+
+[recolic](https://recolic.net/donate/)
+
