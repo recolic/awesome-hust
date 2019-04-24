@@ -88,6 +88,7 @@ CSAPP(计算机组成原理)实验 Github资源极多 自行搜索
 ### 全校通用
 
 微助教自动签到/答题提醒工具 [recolic](https://github.com/recolic/micro-teaching-assistant-fucker) (2019-04-23: 微助教签到API修改，请务必更新你的脚本)
+
 新版微助教自动签到/讨论提醒 [wzj-sign-in-weixin](https://github.com/yun-mu/wzj-sign-in-weixin)（已上线微信后台，可直接关注使用）
 
 蓝墨云课堂自动签到 [3b295](https://github.com/3b295/mosoteach_checkin) [Ailoli(带教程)](https://github.com/Ailoli/go_moso)
