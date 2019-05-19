@@ -98,8 +98,6 @@ CSAPP(计算机组成原理)实验 Github资源极多 自行搜索
 
 公选自动监视自动抢课/针对单个课程高并发抢课(用于课程交易时使用)(非常简陋，但是能用) [recolic](https://github.com/recolic/hust_wsxk_fucker) 
 
-智享校园洗澡DNS劫持 [recolic](https://gist.github.com/recolic/d75d94b4ccb8b6c269f386a6e5e19a85)
-
 华科.我爱你(校内链接索引计划) [link](https://华科.我爱你/)
 
 课程表自动导出(hub到ics) [MMMartt](https://github.com/MMMartt/hust-courses-to-ics)
