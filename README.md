@@ -96,6 +96,8 @@ CSAPP(计算机组成原理)实验 Github资源极多 自行搜索
 
 创高体育打卡脚本 **请勿在最新创高软件使用旧的创高体育打卡脚本，已知被检测**
 
+智享校园DNS劫持 [zhixiang-fucker](https://nmsl.party/zhixiang/index.html)
+
 公选自动监视自动抢课/针对单个课程高并发抢课(用于课程交易时使用)(非常简陋，但是能用) [recolic](https://github.com/recolic/hust_wsxk_fucker) 
 
 华科.我爱你(校内链接索引计划) [link](https://华科.我爱你/)
