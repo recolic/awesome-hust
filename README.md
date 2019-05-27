@@ -75,7 +75,7 @@ CSAPP(计算机组成原理)实验 Github资源极多 自行搜索
 
 操作系统 [recolic](https://github.com/recolic/hust-os-exp) [zxc479773533](https://github.com/zxc479773533/HUST-OperatingSystem-Labs)
 
-数据库 [zxc479773533](https://github.com/zxc479773533/HUST-Database-Design)
+数据库 [zxc479773533](https://github.com/zxc479773533/HUST-Database-Design) [recolic(Go+Js+Docker)](https://github.com/recolic/hust-database)
 
 网络 [recolic](https://github.com/recolic/hust-networking)
 
