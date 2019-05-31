@@ -104,6 +104,8 @@ CSAPP(计算机组成原理)实验 Github资源极多 自行搜索
 
 课程表自动导出(hub到ics) [MMMartt](https://github.com/MMMartt/hust-courses-to-ics)
 
+英语视听说刷在线时长[Macsed](https://github.com/MacsedProtoss/NewHorizon-TimeFaker)
+
 开源的有线校园网认证工具 [minieap](https://github.com/updateing/minieap) [mentohust(ArchWiki)](https://wiki.archlinux.org/index.php/MentoHUST_%28%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87%29)
 
 开源的无线校园网认证工具 [hust-login(with RSA support)](https://github.com/Cra1gTucker/hust-login)   [hust\_wireless.py](https://github.com/haoqixu/hust_wireless)
