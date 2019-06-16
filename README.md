@@ -102,8 +102,6 @@ CSAPP(计算机组成原理)实验 Github资源极多 自行搜索
 
 适合华科校园卡的MIFARE卡复制教程 [recolic](https://gist.github.com/recolic/d7da64545e9330c8a79fed283d6955c4)
 
-华科.我爱你(校内链接索引计划) [link](https://华科.我爱你/)
-
 课程表自动导出(hub到ics) [MMMartt](https://github.com/MMMartt/hust-courses-to-ics)
 
 英语视听说刷在线时长 [Macsed](https://github.com/MacsedProtoss/NewHorizon-TimeFaker)
