@@ -49,8 +49,6 @@ HustLaTeX模板库 [Github](https://github.com/hust-latex) [Website](https://hus
 
 毕业论文LaTeX模板 [本科-Github](https://github.com/skinaze/HUSTPaperTemp) [研究生-CTAN](https://ctan.org/pkg/hustthesis)
 
-[华中科技大学OEI&SES飞跃手册](https://hust-feiyue.github.io)
-
 ### CS 通用
 
 计科大多数实验的代码/报告 [husixu2](https://github.com/husixu1/HUST-Homeworks) [sabertazimi](https://github.com/sabertazimi/hust-lab)
@@ -121,6 +119,14 @@ CSAPP(计算机组成原理)实验 Github资源极多 自行搜索
 ### CS/SE only
 
 Vivado Wrapper For Linux CommandLine [vivado-wrapper](https://github.com/recolic/vivado-wrapper) [AUR](https://aur.archlinux.org/packages/vivado-wrapper)
+
+## 其他资料
+
+> 放置对华科学生有**针对性**帮助的资料或其他材料。
+
+### 全校通用
+
+[华中科技大学OEI&SES飞跃手册](https://hust-feiyue.github.io)
 
 ## 捐助
 
