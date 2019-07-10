@@ -81,10 +81,6 @@ CSAPP(计算机组成原理)实验 Github资源极多 自行搜索
 
 网络 [recolic](https://github.com/recolic/hust-networking)
 
-### OEI
-
-[华中科技大学OEI&SES飞跃手册](https://hust-feiyue.github.io)
-
 ### SE
 
 ----
