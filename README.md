@@ -8,6 +8,8 @@
 
 这不是广告栏，请不要试图添加商业项目或商业信息，它们也不会被merge。
 
+在本项目的链接中，我们假设你已经连接到国际互联网，因此不会因*中国对互联网的破坏与污染*而避免或偏好使用某些网络服务。
+
 **注意: 涉及此仓库的任何文件和外部链接中的汉字，如未特殊注明，请默认使用UTF-8编码。**
 
 ----
@@ -115,6 +117,10 @@ CSAPP(计算机组成原理)实验 Github资源极多 自行搜索
 <!--校园网在线充值(银联支付)(无需校园网) [recolic.net](https://recolic.net/hustCharge.php)-->
 
 华科电费相关 [在线查询(仅校园网)](http://202.114.18.218/main.aspx) [在线查询与充值(仅校园网)(仅微信)(仅限绑定华中大微校园的账户)(仅限华科校园卡电子账户支付)](http://sdhq.hust.edu.cn/ICBS/mobileweb/html/index.html)
+
+华科图书馆Chrome/Chromium插件 [HUST-Library](https://chrome.google.com/webstore/detail/hust-library/abbdkngccefmkgifkakoglhpifohekig)
+
+
 
 ### CS/SE only
 
