@@ -59,6 +59,11 @@ HustLaTeX模板库 [Github](https://github.com/hust-latex) [Website](https://hus
 
 C课设 [recolic-2017](https://github.com/recolic/chw) [zxc479773533](https://github.com/zxc479773533/C-curriculum-design)
 
+C语言实验自动评测系统:用C++或Python代码交作业! [recolic](https://dl.recolic.net/res/usecpy.c)
+
+C语言实验自动评测系统漏洞笔记(还有一点其它东西) [Anonymous Guy](https://nmsl.party/hust-c)
+<!-- 我的recolic@berkeley.edu邮箱收到一封匿名邮件请求代提交此条目，因此我不承担一切责任 -->
+
 数据结构实验 [recolic-2017](https://github.com/recolic/hust-ds-homework) [zxc479773533](https://github.com/zxc479773533/HUST-DataStructure-Labs)
 
 数据结构课设 [recolic-2017](https://github.com/recolic/hust-ds-homework-final) [zxc479773533-2017](https://github.com/zxc479773533/DS-curriculum-design)
