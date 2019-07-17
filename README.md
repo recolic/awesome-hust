@@ -86,6 +86,8 @@ CSAPP(计算机组成原理)实验 Github资源极多 自行搜索
 
 网络 [recolic](https://github.com/recolic/hust-networking)
 
+并行编程实验-远程代码执行(价值不大) [recolic](https://git.recolic.net/root/educoder-fucker)
+
 ### SE
 
 ----
