@@ -104,6 +104,7 @@ CSAPP(计算机组成原理)实验 Github资源极多 自行搜索
 [Macsed(安卓release版本)](https://github.com/MacsedSub/lmy-Fucker-Android-APK)
 
 创高体育打卡脚本 **请勿在最新创高软件使用旧的创高体育打卡脚本，已知被检测**
+[新版过检测，仅限iOS+macOS](https://github.com/CGSportFucker/FakeRunner)
 
 智享校园DNS劫持 [zhixiang-fucker](https://nmsl.party/zhixiang/index.html)
 
