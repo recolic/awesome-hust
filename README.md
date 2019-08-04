@@ -55,6 +55,8 @@ HustLaTeX模板库 [Github](https://github.com/hust-latex) [Website](https://hus
 
 计科大多数实验的代码/报告 [husixu2](https://github.com/husixu1/HUST-Homeworks) [sabertazimi](https://github.com/sabertazimi/hust-lab)
 
+HUSTERS的C、数据结构、计算机系统基础实验/报告 [Github](https://github.com/HUSTERGS/HUSTCS)
+
 ### CS 大一
 
 C课设 [recolic-2017](https://github.com/recolic/chw) [zxc479773533](https://github.com/zxc479773533/C-curriculum-design)
@@ -128,7 +130,7 @@ CSAPP(计算机组成原理)实验 Github资源极多 自行搜索
 
 华科图书馆Chrome/Chromium插件 [HUST-Library](https://chrome.google.com/webstore/detail/hust-library/abbdkngccefmkgifkakoglhpifohekig)
 
-
+华科GPA计算小工具 [HUSTERGS](https://github.com/HUSTERGS/HUST-GPA)
 
 ### CS/SE only
 
