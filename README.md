@@ -38,7 +38,7 @@ else:
 
 ![音叉实验](https://github.com/LoveThinkinghard/HUST-Physcis-Experiments-Plot-and-Dataprocess/blob/master/%E9%9F%B3%E5%8F%89%E5%AE%9E%E9%AA%8C/damped.png)![偏振与双折射](https://github.com/LoveThinkinghard/HUST-Physcis-Experiments-Plot-and-Dataprocess/blob/master/%E5%81%8F%E6%8C%AF%E4%B8%8E%E5%8F%8C%E6%8A%98%E5%B0%84/I-%CE%B8%20on%20polor%20axis.png)
 
-大学物理网考答案 [recolic](https://recolic.net/tmp/PhyExpExamAnswer.csv) [备用下载](https://github.com/recolic/awesome-hust/blob/master/res/PhyExpExamAnswer.csv) 
+大学物理网考答案 [recolic](https://recolic.org/tmp/PhyExpExamAnswer.csv) [备用下载](https://github.com/recolic/awesome-hust/blob/master/res/PhyExpExamAnswer.csv) 
 
 大学物理网考答案(更新的版本,保留作者信息) [html](https://s.gjw.moe/res/phyOnlineExam.unix.utf8.html) [html.gz备用下载](https://github.com/recolic/awesome-hust/blob/master/res/phyOnlineExam.unix.utf8.html.gz)
 [txt](https://github.com/recolic/awesome-hust/blob/master/res/phyOnlineExam.unix.utf8.txt) [txt备用下载](https://s.gjw.moe/res/phyOnlineExam.unix.utf8.txt) [xlsx](https://github.com/misaka7690/Data-collation/blob/master/answer.xlsx)
@@ -61,7 +61,7 @@ HUSTERS的C、数据结构、计算机系统基础实验/报告 [Github](https:/
 
 C课设 [recolic-2017](https://github.com/recolic/chw) [zxc479773533](https://github.com/zxc479773533/C-curriculum-design)
 
-C语言实验自动评测系统:用C++或Python代码交作业! [recolic](https://dl.recolic.net/res/usecpy.c)
+C语言实验自动评测系统:用C++或Python代码交作业! [recolic](https://dl.recolic.org/res/usecpy.c)
 
 C语言实验自动评测系统漏洞笔记(还有一点其它东西) [Anonymous Guy](https://nmsl.party/hust-c)
 <!-- 我的recolic@berkeley.edu邮箱收到一封匿名邮件请求代提交此条目，因此我不承担一切责任 -->
@@ -88,7 +88,7 @@ CSAPP(计算机组成原理)实验 Github资源极多 自行搜索
 
 网络 [recolic](https://github.com/recolic/hust-networking)
 
-并行编程实验-远程代码执行(价值不大) [recolic](https://git.recolic.net/root/educoder-fucker)
+并行编程实验-远程代码执行(价值不大) [recolic](https://git.recolic.org/root/educoder-fucker)
 
 ### SE
 
@@ -124,7 +124,7 @@ CSAPP(计算机组成原理)实验 Github资源极多 自行搜索
 
 开源的无线校园网认证工具 [hust-login(with RSA support)](https://github.com/Cra1gTucker/hust-login)   [hust\_wireless.py](https://github.com/haoqixu/hust_wireless)
 
-<!--校园网在线充值(银联支付)(无需校园网) [recolic.net](https://recolic.net/hustCharge.php)-->
+<!--校园网在线充值(银联支付)(无需校园网) [recolic.org](https://recolic.org/hustCharge.php)-->
 
 华科电费相关 [在线查询(仅校园网)](http://202.114.18.218/main.aspx) [在线查询与充值(仅校园网)(仅微信)(仅限绑定华中大微校园的账户)(仅限华科校园卡电子账户支付)](http://sdhq.hust.edu.cn/ICBS/mobileweb/html/index.html)
 
@@ -148,5 +148,5 @@ Vivado Wrapper For Linux CommandLine [vivado-wrapper](https://github.com/recolic
 
 > 在此仓库中有收录的项目作者均可在此添加一个通往捐助页面的链接。
 
-[recolic](https://recolic.net/donate/)
+[recolic](https://recolic.org/donate/)
 
