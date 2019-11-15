@@ -49,7 +49,9 @@ else:
 
 HustLaTeX模板库 [Github](https://github.com/hust-latex) [Website](https://hust-latex.github.io/)
 
-毕业论文LaTeX模板 [本科-Github](https://github.com/skinaze/HUSTPaperTemp) [研究生-CTAN](https://ctan.org/pkg/hustthesis)
+毕业论文LaTeX模板 [本科-Github](https://github.com/skinaze/HUSTPaperTemp) [研究生-CTAN](https://ctan.org/pkg/hustthesis)  
+
+毕业论文Markdown2pdf(latex中转) [Github](https://github.com/pyrocat101/hust-thesis-pandoc)  
 
 ### CS 通用
 
