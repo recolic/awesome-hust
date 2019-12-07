@@ -90,7 +90,19 @@ CSAPP(计算机组成原理)实验 Github资源极多 自行搜索
 
 网络 [recolic](https://github.com/recolic/hust-networking)
 
-并行编程实验-远程代码执行(价值不大) [recolic](https://git.recolic.org/root/educoder-fucker)
+并行编程实验-远程代码执行POC(价值不大) [recolic](https://git.recolic.org/root/educoder-fucker)
+
+### CS 大四
+
+生产实习报告 [recolic(脱敏)](https://git.recolic.org/recolic-hust/intern-report)
+
+大数据实验+面向平台的编程实验 [recolic](https://git.recolic.org/recolic-hust/hust-bigdata-platformprog)
+
+<!-- TODOs
+人工智能实验 [recolic]()
+
+计算机图形学实验 [recolic](https://git.recolic.org/recolic-hust/ogl-learning)
+-->
 
 ### SE
 
