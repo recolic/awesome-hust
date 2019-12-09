@@ -146,6 +146,10 @@ CSAPP(计算机组成原理)实验 Github资源极多 自行搜索
 
 华科GPA计算小工具 [HUSTERGS](https://github.com/HUSTERGS/HUST-GPA)
 
+华科西边[体育馆](http://pecg.hust.edu.cn/cggl/)场地预定工具 [羽毛球场地预定助手](https://github.com/rachpt/Booking-Assistant)，[镜像](https://gitee.com/rachpt/Booking-Assistant)
+
+适用于[蝴蝶HUDBT](https://hudbt.hust.edu.cn/index.php) 的全自动发种姬 [AutoSeed](https://github.com/rachpt/AutoSeed)，[镜像](https://gitee.com/rachpt/AutoSeed)
+
 ### CS/SE only
 
 Vivado Wrapper For Linux CommandLine [vivado-wrapper](https://github.com/recolic/vivado-wrapper) [AUR](https://aur.archlinux.org/packages/vivado-wrapper)
