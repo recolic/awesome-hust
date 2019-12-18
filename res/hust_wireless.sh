@@ -12,13 +12,11 @@
 userID=U201812222
 password=Password
 
-function do_auth () {
-    queryString=$(curl -s http://www.baidu.com | sed 's|^.*eportal/index.jsp.||g' | sed "s|'.*\$||g" | sed 's|&|%2526|g' | sed 's|=|%253D|g')
-    echo 'SENDING_AUTH_REQ'
-    curl --data "userId=${userID}&password=${password}&queryString=${queryString}&service=&operatorPwd=&validcode=&passwordEncrypt=false" 'http://192.168.50.3:8080/eportal/InterFace.do?method=login'
-    return $?
-}
+curl -s http://www.baidu.com | grep eportal/index > /dev/null || exit 0 # no need to auth
 
-curl -s http://www.baidu.com | grep eportal/index > /dev/null && do_auth
+queryString=$(curl -s http://www.baidu.com | sed 's|^.*eportal/index.jsp.||g' | sed "s|'.*\$||g" | sed 's|&|%2526|g' | sed 's|=|%253D|g')
+echo 'SENDING_AUTH_REQ'
+curl --data "userId=${userID}&password=${password}&queryString=${queryString}&service=&operatorPwd=&validcode=&passwordEncrypt=false" 'http://192.168.50.3:8080/eportal/InterFace.do?method=login'
 exit $?
+
 
