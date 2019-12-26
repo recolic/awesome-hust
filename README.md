@@ -1,12 +1,12 @@
 # Awesome hust
 
-适用于华中科技大学的生存指南索引计划，包括但不仅限于报告、实验、小工具等。(主要收录计科和软工，适用于其他专业的部分被欢迎但不被维护)
+> The free software movement is basically a movement for freedom. It's based on values that are not purely material and practical. It's based on the idea that freedom is a benefit in itself. And that being allowed to be part of a community is a benefit in itself, having neighbors who can help you, who are free to help you—they are not told that they are pirates if they help you—is a benefit in itself, and that that's even more important than how powerful and reliable your software is.
 
-作者甚至不可能有足够的精力建立一个基本可用的索引列表，所以请毫不犹豫地请使用Pull Request补充你知道的其他项目。
+适用于华中科技大学的生存指南索引计划，包括但不仅限于报告、实验、小工具等。(主要收录计科和软工，适用于其他专业的部分被欢迎但不被维护)
 
 请遵守以下项目使用的开源许可证或知识共享协议，你不应该使用没有给出许可证的项目。此索引本身是Public Domain的。
 
-在本项目的链接中，我们假设你已经连接到国际互联网，因此不会因*中国对互联网的破坏与污染*而避免或偏好使用某些网络服务。
+在本项目的链接中，我们假设你已经连接到国际互联网，因此不会因*中国大陆政府对互联网的破坏与污染*而避免或偏好使用某些网络服务。
 
 如果你希望提交新条目，建议阅读[CONTRIBUTING.md](https://github.com/recolic/awesome-hust/blob/master/CONTRIBUTING.md)。
 
