@@ -103,6 +103,12 @@ CSAPP(计算机组成原理)实验 Github资源极多 自行搜索
 <!--计算机图形学实验 [recolic](https://git.recolic.org/recolic-hust/ogl-learning)
 -->
 
+综合能力培养 NEMU  [niuyinmei](https://github.com/niuyinmei/ICS2018/) (GitHub)
+
+TOEFL, GRE 备考资料 [niuyinmei](https://niuyinmei.github.io/2018/11/09/Standardized-Tests/) (Google Drive)
+
+
+
 ### SE
 
 ----
