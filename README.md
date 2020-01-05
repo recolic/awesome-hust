@@ -146,6 +146,8 @@ CSAPP(计算机组成原理)实验 Github资源极多 自行搜索
 
 华科GPA计算小工具 [HUSTERGS](https://github.com/HUSTERGS/HUST-GPA)
 
+华中大微校园-应用中心 [不必使用微信打开](http://m.hust.edu.cn/wechat/apps_center.jsp)
+
 ### CS/SE only
 
 Vivado Wrapper For Linux CommandLine [vivado-wrapper](https://github.com/recolic/vivado-wrapper) [AUR](https://aur.archlinux.org/packages/vivado-wrapper)
