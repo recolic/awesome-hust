@@ -98,12 +98,11 @@ CSAPP(计算机组成原理)实验 Github资源极多 自行搜索
 
 大数据实验+面向平台的编程实验 [recolic](https://git.recolic.org/recolic-hust/hust-bigdata-platformprog)
 
-人工智能实验 <!--[recolic]()--> [ladlod(hanoi)](https://github.com/ladlod/hust_cs_ug/tree/master/aiExp)
+人工智能实验 [ladlod(hanoi)](https://github.com/ladlod/hust_cs_ug/tree/master/aiExp)
 
-<!--计算机图形学实验 [recolic](https://git.recolic.org/recolic-hust/ogl-learning)
--->
+计算机图形学实验 [recolic](https://git.recolic.org/recolic-hust/opengl)
 
-综合能力培养-NEMU  [niuyinmei](https://github.com/niuyinmei/ICS2018/)
+综合能力培养-NEMU  [niuyinmei](https://github.com/niuyinmei/ICS2018/) [recolic(到PA2)](https://git.recolic.org/recolic-hust/hust-x86-simulator)
 
 ### SE
 
@@ -141,7 +140,7 @@ CSAPP(计算机组成原理)实验 Github资源极多 自行搜索
 
 <!--校园网在线充值(银联支付)(无需校园网) [recolic.org](https://recolic.org/hustCharge.php)-->
 
-华科电费相关 [在线查询(仅校园网)](http://202.114.18.218/main.aspx) [在线查询与充值(仅校园网)(仅微信)(仅限绑定华中大微校园的账户)(仅限华科校园卡电子账户支付)](http://sdhq.hust.edu.cn/ICBS/mobileweb/html/index.html)
+华科电费相关 [在线查询(仅校园网)](http://202.114.18.218/main.aspx) [在线查询与充值(仅校园网)(仅微信)(仅限绑定华中大微校园的账户)](http://sdhq.hust.edu.cn/ICBS/mobileweb/html/index.html)
 
 华科图书馆Chrome/Chromium插件 [HUST-Library](https://chrome.google.com/webstore/detail/hust-library/abbdkngccefmkgifkakoglhpifohekig)
 
