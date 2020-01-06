@@ -102,7 +102,7 @@ CSAPP(计算机组成原理)实验 Github资源极多 自行搜索
 
 计算机图形学实验 [recolic](https://git.recolic.org/recolic-hust/opengl)
 
-综合能力培养-NEMU  [niuyinmei](https://github.com/niuyinmei/ICS2018/) [recolic(到PA2)](https://git.recolic.org/recolic-hust/hust-x86-simulator)
+综合能力培养-NEMU  [niuyinmei](https://github.com/niuyinmei/ICS2018/) [recolic(到PA2)](https://git.recolic.org/recolic-hust/hust-x86-simulator) [ladlod(到PA3.2)](https://github.con/ladlod/ics_2018)
 
 ### SE
 
