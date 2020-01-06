@@ -1,12 +1,12 @@
 # Awesome hust
 
-适用于华中科技大学的生存指南索引计划，包括但不仅限于报告、实验、小工具等。(主要收录计科和软工，适用于其他专业的部分被欢迎但不被维护)
+> The free software movement is basically a movement for freedom. It's based on values that are not purely material and practical. It's based on the idea that freedom is a benefit in itself. And that being allowed to be part of a community is a benefit in itself, having neighbors who can help you, who are free to help you—they are not told that they are pirates if they help you—is a benefit in itself, and that that's even more important than how powerful and reliable your software is.
 
-作者甚至不可能有足够的精力建立一个基本可用的索引列表，所以请毫不犹豫地请使用Pull Request补充你知道的其他项目。
+适用于华中科技大学的生存指南索引计划，包括但不仅限于报告、实验、小工具等。(主要收录计科和软工，适用于其他专业的部分被欢迎但不被维护)
 
 请遵守以下项目使用的开源许可证或知识共享协议，你不应该使用没有给出许可证的项目。此索引本身是Public Domain的。
 
-在本项目的链接中，我们假设你已经连接到国际互联网，因此不会因*中国对互联网的破坏与污染*而避免或偏好使用某些网络服务。
+在本项目的链接中，我们假设你已经连接到国际互联网，因此不会因*中国大陆政府对互联网的破坏与污染*而避免或偏好使用某些网络服务。
 
 如果你希望提交新条目，建议阅读[CONTRIBUTING.md](https://github.com/recolic/awesome-hust/blob/master/CONTRIBUTING.md)。
 
@@ -98,10 +98,11 @@ CSAPP(计算机组成原理)实验 Github资源极多 自行搜索
 
 大数据实验+面向平台的编程实验 [recolic](https://git.recolic.org/recolic-hust/hust-bigdata-platformprog)
 
-人工智能实验 <!--[recolic]()--> [ladlod(hanoi)](https://github.com/ladlod/hust_cs_ug/tree/master/aiExp)
+人工智能实验 [ladlod(hanoi)](https://github.com/ladlod/hust_cs_ug/tree/master/aiExp)
 
-<!--计算机图形学实验 [recolic](https://git.recolic.org/recolic-hust/ogl-learning)
--->
+计算机图形学实验 [recolic](https://git.recolic.org/recolic-hust/opengl)
+
+综合能力培养-NEMU  [niuyinmei](https://github.com/niuyinmei/ICS2018/) [recolic(到PA2)](https://git.recolic.org/recolic-hust/hust-x86-simulator)
 
 ### SE
 
@@ -135,15 +136,17 @@ CSAPP(计算机组成原理)实验 Github资源极多 自行搜索
 
 开源的有线校园网认证工具 [minieap](https://github.com/updateing/minieap) [mentohust(ArchWiki)](https://wiki.archlinux.org/index.php/MentoHUST_%28%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87%29)
 
-开源的无线校园网认证工具 [hust-login(with RSA support)](https://github.com/Cra1gTucker/hust-login)   [hust\_wireless.py](https://github.com/haoqixu/hust_wireless)
+开源的无线校园网认证工具 [hust-login(with RSA support)](https://github.com/Cra1gTucker/hust-login) [hust\_wireless.py](https://github.com/haoqixu/hust_wireless) [hust\_wireless.sh 用于低性能设备的无依赖版本](https://github.com/recolic/awesome-hust/blob/master/res/hust_wireless.sh)
 
 <!--校园网在线充值(银联支付)(无需校园网) [recolic.org](https://recolic.org/hustCharge.php)-->
 
-华科电费相关 [在线查询(仅校园网)](http://202.114.18.218/main.aspx) [在线查询与充值(仅校园网)(仅微信)(仅限绑定华中大微校园的账户)(仅限华科校园卡电子账户支付)](http://sdhq.hust.edu.cn/ICBS/mobileweb/html/index.html)
+华科电费相关 [在线查询(仅校园网)](http://202.114.18.218/main.aspx) [在线查询与充值(仅校园网)(仅微信)(仅限绑定华中大微校园的账户)](http://sdhq.hust.edu.cn/ICBS/mobileweb/html/index.html)
 
 华科图书馆Chrome/Chromium插件 [HUST-Library](https://chrome.google.com/webstore/detail/hust-library/abbdkngccefmkgifkakoglhpifohekig)
 
 华科GPA计算小工具 [HUSTERGS](https://github.com/HUSTERGS/HUST-GPA)
+
+华中大微校园-应用中心 [不必使用微信打开](http://m.hust.edu.cn/wechat/apps_center.jsp)
 
 ### CS/SE only
 
