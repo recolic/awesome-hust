@@ -32,7 +32,7 @@ else:
 
 ### 全校通用
 
-大学物理实验的数据处理套装 [Python](https://github.com/recolic/phy-exp) 
+大学物理实验相关(数据处理套装+网站登陆API+拉取用户信息) [Recolic](https://github.com/recolic/phy-exp) 
 
 大学物理实验(二)画图 [`偏振与双折射`](https://github.com/LoveThinkinghard/HUST-Physcis-Experiments-Plot-and-Dataprocess/tree/master/%E5%81%8F%E6%8C%AF%E4%B8%8E%E5%8F%8C%E6%8A%98%E5%B0%84) [`音叉`](https://github.com/LoveThinkinghard/HUST-Physcis-Experiments-Plot-and-Dataprocess/tree/master/%E9%9F%B3%E5%8F%89%E5%AE%9E%E9%AA%8C) [`导热系数`](https://github.com/LoveThinkinghard/HUST-Physcis-Experiments-Plot-and-Dataprocess/tree/master/%E5%AF%BC%E7%83%AD%E7%B3%BB%E6%95%B0)
 
