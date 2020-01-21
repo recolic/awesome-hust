@@ -94,6 +94,9 @@ CSAPP(计算机组成原理)实验 Github资源极多 自行搜索
 蓝墨云课堂自动签到 [3b295](https://github.com/3b295/mosoteach_checkin) [Ailoli(带教程)](https://github.com/Ailoli/go_moso)
 [Macsed(安卓release版本)](https://github.com/MacsedSub/lmy-Fucker-Android-APK)
 
+返校宣讲（招办汇公众号）刷扫码人数
+[Macsed](https://github.com/MacsedSub/ZBH-Fucker)
+
 创高体育打卡脚本 **请勿在最新创高软件使用旧的创高体育打卡脚本，已知被检测**
 [新版过检测，仅限iOS+macOS](https://github.com/CGSportFucker/FakeRunner)
 
