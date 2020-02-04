@@ -165,6 +165,8 @@ Vivado Wrapper For Linux CommandLine [vivado-wrapper](https://github.com/recolic
 
 [2019-nCoV(新型冠状病毒)专题](https://github.com/recolic/awesome-hust/blob/master/anti-2019-ncov.md)
 
+复制即翻译的外文辅助阅读翻译解决方案 [copytranslator](https://github.com/CopyTranslator/CopyTranslator/blob/master/README_zh.md)
+
 ## 捐助
 
 > 在此仓库中有收录的项目作者均可在此添加一个通往捐助页面的链接。
