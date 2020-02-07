@@ -151,6 +151,8 @@ CSAPP(计算机组成原理)实验 Github资源极多 自行搜索
 
 华中大微校园-应用中心 [不必使用微信打开](http://m.hust.edu.cn/wechat/apps_center.jsp)
 
+华科评教（可以在学校关闭系统后继续评教） [HustPJ](https://github.com/xuzichi/HustPJ)
+
 ### CS/SE only
 
 Vivado Wrapper For Linux CommandLine [vivado-wrapper](https://github.com/recolic/vivado-wrapper) [AUR](https://aur.archlinux.org/packages/vivado-wrapper)
