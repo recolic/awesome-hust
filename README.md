@@ -59,6 +59,9 @@ HustLaTeX模板库 [Github](https://github.com/hust-latex) [Website](https://hus
 
 HUSTERS的C、数据结构、计算机系统基础实验/报告 [Github](https://github.com/HUSTERGS/HUSTCS)
 
+### CS 双学位专用
+计算机科学与技术学院双学位的大部分资源 [WhatAboutMyStar/HUSTDoubleDegree](https://github.com/WhatAboutMyStar/HUSTDoubleDegree)
+
 ### CS 大一
 
 C课设 [recolic-2017](https://github.com/recolic/chw) [zxc479773533](https://github.com/zxc479773533/C-curriculum-design) [ladlod-2017](https://github.com/ladlod/hust_cs_ug/tree/master/c_program)
