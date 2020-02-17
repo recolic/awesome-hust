@@ -91,6 +91,8 @@ CSAPP(计算机组成原理)实验 Github资源极多 自行搜索
 
 新版微助教自动签到/讨论提醒(支持二维码签到+GPS签到+普通签到) [wzj-sign-in-weixin](https://github.com/yun-mu/wzj-sign-in-weixin) (已上线微信后台，可直接关注使用)
 
+polyv自动签到（2020软院操作系统线上课堂）[ttzztztz](https://github.com/ttzztztz/polyv-fucker)
+
 蓝墨云课堂自动签到 [3b295](https://github.com/3b295/mosoteach_checkin) [Ailoli(带教程)](https://github.com/Ailoli/go_moso)
 [Macsed(安卓release版本)](https://github.com/MacsedSub/lmy-Fucker-Android-APK)
 
