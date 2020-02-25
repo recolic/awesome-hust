@@ -106,6 +106,8 @@ CSAPP(计算机组成原理)实验 Github资源极多 自行搜索
 
 ### SE
 
+大一C语言课设 聪明的小蛇 [rapiz](https://github.com/Rapiz1/DungeonRush)  
+
 ----
 
 ## 小工具
