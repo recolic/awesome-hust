@@ -153,6 +153,8 @@ CSAPP(计算机组成原理)实验 Github资源极多 自行搜索
 
 Polyv-cn平台网络课程自动签到脚本 [polyv-fucker](https://github.com/ttzztztz/polyv-fucker)
 
+新版(2020)统一身份认证登录库 (python) [libhustpass](https://github.com/naivekun/libhustpass)
+
 ### CS/SE only
 
 Vivado Wrapper For Linux CommandLine [vivado-wrapper](https://github.com/recolic/vivado-wrapper) [AUR](https://aur.archlinux.org/packages/vivado-wrapper)
