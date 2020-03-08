@@ -38,10 +38,10 @@ else:
 
 ![音叉实验](https://github.com/LoveThinkinghard/HUST-Physcis-Experiments-Plot-and-Dataprocess/blob/master/%E9%9F%B3%E5%8F%89%E5%AE%9E%E9%AA%8C/damped.png)![偏振与双折射](https://github.com/LoveThinkinghard/HUST-Physcis-Experiments-Plot-and-Dataprocess/blob/master/%E5%81%8F%E6%8C%AF%E4%B8%8E%E5%8F%8C%E6%8A%98%E5%B0%84/I-%CE%B8%20on%20polor%20axis.png)
 
-大学物理网考答案 [recolic](https://recolic.org/tmp/PhyExpExamAnswer.csv) [备用下载](https://github.com/recolic/awesome-hust/blob/master/res/PhyExpExamAnswer.csv) 
+大学物理网考答案 [recolic](https://dl.recolic.net/res/PhyExpExamAnswer.csv) [备用下载](https://github.com/recolic/awesome-hust/blob/master/res/PhyExpExamAnswer.csv) 
 
-大学物理网考答案(更新的版本,保留作者信息) [html](https://s.gjw.moe/res/phyOnlineExam.unix.utf8.html) [html.gz备用下载](https://github.com/recolic/awesome-hust/blob/master/res/phyOnlineExam.unix.utf8.html.gz)
-[txt](https://github.com/recolic/awesome-hust/blob/master/res/phyOnlineExam.unix.utf8.txt) [txt备用下载](https://s.gjw.moe/res/phyOnlineExam.unix.utf8.txt) [xlsx](https://github.com/misaka7690/Data-collation/blob/master/answer.xlsx)
+大学物理网考答案(更新的版本,保留作者信息) [html](https://dl.recolic.net/res/phyOnlineExam.unix.utf8.html) [html.gz备用下载](https://github.com/recolic/awesome-hust/blob/master/res/phyOnlineExam.unix.utf8.html.gz)
+[txt](https://github.com/recolic/awesome-hust/blob/master/res/phyOnlineExam.unix.utf8.txt) [txt备用下载](https://dl.recolic.net/res/phyOnlineExam.unix.utf8.txt) [xlsx](https://github.com/misaka7690/Data-collation/blob/master/answer.xlsx)
 
 > 如果txt版本出现乱码，你的浏览器可能不支持自动识别将要显示的txt的编码，或者使用了不正确的默认unicode编码(GB2312)。请查看html版本，或者下载后使用支持UTF-8的编辑器查看。
 
@@ -61,7 +61,7 @@ HustLaTeX模板库 [Github](https://github.com/hust-latex) [Website](https://hus
 
 C课设 [recolic-2017](https://github.com/recolic/chw) [zxc479773533](https://github.com/zxc479773533/C-curriculum-design) [ladlod-2017](https://github.com/ladlod/hust_cs_ug/tree/master/c_program)
 
-C语言实验自动评测系统:用C++或Python代码交作业! [recolic](https://dl.recolic.org/res/usecpy.c)
+C语言实验自动评测系统:用C++或Python代码交作业! [recolic](https://dl.recolic.net/res/usecpy.c)
 
 C语言实验自动评测系统漏洞笔记(还有一点其它东西) [Anonymous Guy](https://nmsl.party/hust-c)
 <!-- 我的recolic@berkeley.edu邮箱收到一封匿名邮件请求代提交此条目，因此我不承担一切责任 -->
@@ -88,19 +88,19 @@ CSAPP(计算机组成原理)实验 Github资源极多 自行搜索
 
 网络 [recolic](https://github.com/recolic/hust-networking)
 
-并行编程实验-远程代码执行POC(价值不大) [recolic](https://git.recolic.org/root/educoder-fucker)
+并行编程实验-远程代码执行POC(价值不大) [recolic](https://git.recolic.net/root/educoder-fucker)
 
 ### CS 大四
 
-生产实习报告 [recolic(脱敏)](https://git.recolic.org/recolic-hust/intern-report)
+生产实习报告 [recolic(脱敏)](https://git.recolic.net/recolic-hust/intern-report)
 
-大数据实验+面向平台的编程实验 [recolic](https://git.recolic.org/recolic-hust/hust-bigdata-platformprog)
+大数据实验+面向平台的编程实验 [recolic](https://git.recolic.net/recolic-hust/hust-bigdata-platformprog)
 
 人工智能实验 [ladlod(hanoi)](https://github.com/ladlod/hust_cs_ug/tree/master/aiExp)
 
-计算机图形学实验 [recolic](https://git.recolic.org/recolic-hust/opengl)
+计算机图形学实验 [recolic](https://git.recolic.net/recolic-hust/opengl)
 
-综合能力培养-NEMU  [niuyinmei](https://github.com/niuyinmei/ICS2018/) [recolic(到PA2)](https://git.recolic.org/recolic-hust/hust-x86-simulator) [ladlod(到PA3.2)](https://github.com/ladlod/ics_2018)
+综合能力培养-NEMU  [niuyinmei](https://github.com/niuyinmei/ICS2018/) [recolic(到PA2)](https://git.recolic.net/recolic-hust/hust-x86-simulator) [ladlod(到PA3.2)](https://github.com/ladlod/ics_2018)
 
 ### SE
 
@@ -112,7 +112,7 @@ CSAPP(计算机组成原理)实验 Github资源极多 自行搜索
 
 ### 全校通用
 
-微助教自动签到/答题提醒工具(支持GPS签到+普通签到) [recolic](https://github.com/recolic/micro-teaching-assistant-fucker) (2019-04-23: 微助教签到API修改，请务必更新你的脚本)
+微助教自动签到/答题提醒工具(支持GPS签到+普通签到) [recolic](https://github.com/recolic/micro-teaching-assistant-fucker)
 
 新版微助教自动签到/讨论提醒(支持二维码签到+GPS签到+普通签到) [wzj-sign-in-weixin](https://github.com/yun-mu/wzj-sign-in-weixin) (已上线微信后台，可直接关注使用)
 
@@ -141,7 +141,7 @@ CSAPP(计算机组成原理)实验 Github资源极多 自行搜索
 
 开源的无线校园网认证工具 [hust-login(with RSA support)](https://github.com/Cra1gTucker/hust-login) [hust\_wireless.py](https://github.com/haoqixu/hust_wireless) [hust\_wireless.sh 用于低性能设备的无依赖版本](https://github.com/recolic/awesome-hust/blob/master/res/hust_wireless.sh)
 
-<!--校园网在线充值(银联支付)(无需校园网) [recolic.org](https://recolic.org/hustCharge.php)-->
+<!--校园网在线充值(银联支付)(无需校园网) [recolic.net](https://recolic.net/hustCharge.php)-->
 
 华科电费相关 [在线查询(仅校园网)](http://202.114.18.218/main.aspx) [在线查询与充值(仅校园网)](http://sdhq.hust.edu.cn/ICBS/mobileweb/html/index.html)
 
@@ -155,7 +155,7 @@ Polyv-cn平台网络课程自动签到脚本 [polyv-fucker](https://github.com/t
 
 新版(2020)统一身份认证登录库 (python) [libhustpass](https://github.com/naivekun/libhustpass)
 
-SARS-CoV-2每日健康状况上报(全自动) [recolic](https://git.recolic.org/recolic-hust/hust-2019-ncov-submit-fucker)
+SARS-CoV-2每日健康状况上报(全自动) [recolic](https://git.recolic.net/recolic-hust/hust-2019-ncov-submit-fucker)
 
 ### CS/SE only
 
@@ -173,5 +173,5 @@ Vivado Wrapper For Linux CommandLine [vivado-wrapper](https://github.com/recolic
 
 > 在此仓库中有收录的项目作者均可在此添加一个通往捐助页面的链接。
 
-[recolic](https://recolic.org/donate/)
+[recolic](https://recolic.net/donate/)
 
