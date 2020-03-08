@@ -155,6 +155,8 @@ Polyv-cn平台网络课程自动签到脚本 [polyv-fucker](https://github.com/t
 
 新版(2020)统一身份认证登录库 (python) [libhustpass](https://github.com/naivekun/libhustpass)
 
+SARS-CoV-2每日健康状况上报(全自动) [recolic](https://git.recolic.org/recolic-hust/hust-2019-ncov-submit-fucker)
+
 ### CS/SE only
 
 Vivado Wrapper For Linux CommandLine [vivado-wrapper](https://github.com/recolic/vivado-wrapper) [AUR](https://aur.archlinux.org/packages/vivado-wrapper)
