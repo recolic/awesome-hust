@@ -156,7 +156,7 @@ Polyv-cn平台网络课程自动签到脚本 [polyv-fucker](https://github.com/t
 新版(2020)统一身份认证登录库 (python) [libhustpass](https://github.com/naivekun/libhustpass)
 
 SARS-CoV-2每日健康状况上报(全自动) [recolic](https://git.recolic.net/recolic-hust/hust-2019-ncov-submit-fucker)
-SARS-CoV-2每日健康状况上报(改进版本)[misaka7690](https://github.com/misaka7690/HUST-2019-ncov-submit-fucker)
+SARS-CoV-2每日健康状况上报(改进版本) [misaka7690](https://github.com/misaka7690/HUST-2019-ncov-submit-fucker)
 
 ### CS/SE only
 
