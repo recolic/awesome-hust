@@ -153,13 +153,9 @@ CSAPP(计算机组成原理)实验 Github资源极多 自行搜索
 
 Polyv-cn平台网络课程自动签到脚本 [polyv-fucker](https://github.com/ttzztztz/polyv-fucker)
 
-新版(2020)统一身份认证登录库 [libhustpass (Python)](https://github.com/naivekun/libhustpass)  [node-hustpass (Node.js)](https://github.com/ManiaciaChao/node-hustpass)
+新版(2020)统一身份认证登录库 [libhustpass(Python)](https://github.com/naivekun/libhustpass)  [node-hustpass(Node.js)](https://github.com/ManiaciaChao/node-hustpass)
 
 SARS-CoV-2每日健康状况自动上报 [recolic](https://git.recolic.net/recolic-hust/hust-2019-ncov-submit-fucker) [misaka7690的改进版本](https://github.com/misaka7690/HUST-2019-ncov-submit-fucker)
-
-QQ网页扫码登录（适用于空间和邮箱） [qq-qr-login](https://github.com/ManiaciaChao/qq-qr-login)
-
-QQ群文件批量下载（用于同步课程群课件） [qq-group-cli](https://github.com/ManiaciaChao/qq-group-cli)
 
 ### CS/SE only
 
