@@ -82,13 +82,15 @@ CSAPP(计算机组成原理)实验 Github资源极多 自行搜索
 
 ### CS 大三
 
-操作系统 [recolic](https://github.com/recolic/hust-os-exp) [zxc479773533](https://github.com/zxc479773533/HUST-OperatingSystem-Labs) [ladlod](https://github.com/ladlod/hust_cs_ug/tree/master/linux_proc)
+操作系统 [recolic-实验](https://github.com/recolic/hust-os-exp) [recolic-课设](https://git.recolic.net/recolic-hust/hust-os-design) [zxc479773533](https://github.com/zxc479773533/HUST-OperatingSystem-Labs) [ladlod](https://github.com/ladlod/hust_cs_ug/tree/master/linux_proc)
 
 数据库 [zxc479773533](https://github.com/zxc479773533/HUST-Database-Design) [recolic(Go+Js+Docker)](https://github.com/recolic/hust-database) [ladlod(java)](https://github.com/ladlod/hust_cs_ug/tree/master/database)
 
 网络 [recolic](https://github.com/recolic/hust-networking)
 
 并行编程实验-远程代码执行POC(价值不大) [recolic](https://git.recolic.net/root/educoder-fucker)
+
+计算机系统结构 [recolic](https://git.recolic.net/recolic-hust/ca)
 
 ### CS 大四
 
