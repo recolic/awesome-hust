@@ -120,6 +120,8 @@ CSAPP(计算机组成原理)实验 Github资源极多 自行搜索
 
 polyv自动签到（2020软院操作系统线上课堂）[ttzztztz](https://github.com/ttzztztz/polyv-fucker)
 
+超星题库搜索小工具 [Macsed，macOS版本，其他版本自行翻译](https://github.com/MacsedProtoss/CxmoocAnswerBrowser)
+
 蓝墨云课堂自动签到 [3b295](https://github.com/3b295/mosoteach_checkin) [Ailoli(带教程)](https://github.com/Ailoli/go_moso)
 [Macsed(安卓release版本)](https://github.com/MacsedSub/lmy-Fucker-Android-APK)
 
