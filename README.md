@@ -78,8 +78,6 @@ C语言实验自动评测系统漏洞笔记(还有一点其它东西) [Anonymous
 
 计科verilog实验 [recolic](https://github.com/recolic/hust-verilog-exp) [zxc479773533](https://github.com/zxc479773533/HUST-Verilog-Labs)
 
-CSAPP(计算机组成原理)实验 Github资源极多 自行搜索
-
 ### CS 大三
 
 操作系统 [recolic-实验](https://github.com/recolic/hust-os-exp) [recolic-课设](https://git.recolic.net/recolic-hust/hust-os-design) [zxc479773533](https://github.com/zxc479773533/HUST-OperatingSystem-Labs) [ladlod](https://github.com/ladlod/hust_cs_ug/tree/master/linux_proc)
@@ -90,7 +88,7 @@ CSAPP(计算机组成原理)实验 Github资源极多 自行搜索
 
 并行编程实验-远程代码执行POC(价值不大) [recolic](https://git.recolic.net/root/educoder-fucker)
 
-计算机系统结构 [recolic](https://git.recolic.net/recolic-hust/ca)
+计算机系统结构 [recolic(作业答案+实验)](https://git.recolic.net/recolic-hust/ca)
 
 ### CS 大四
 
@@ -118,7 +116,7 @@ CSAPP(计算机组成原理)实验 Github资源极多 自行搜索
 
 新版微助教自动签到/讨论提醒(支持二维码签到+GPS签到+普通签到) [wzj-sign-in-weixin](https://github.com/yun-mu/wzj-sign-in-weixin) (已上线微信后台，可直接关注使用)
 
-polyv自动签到（2020软院操作系统线上课堂）[ttzztztz](https://github.com/ttzztztz/polyv-fucker)
+Polyv-cn平台网络课程自动签到脚本 [polyv-fucker](https://github.com/ttzztztz/polyv-fucker)
 
 超星题库搜索小工具 [Macsed，macOS版本，其他版本自行翻译](https://github.com/MacsedProtoss/CxmoocAnswerBrowser)
 
@@ -154,8 +152,6 @@ polyv自动签到（2020软院操作系统线上课堂）[ttzztztz](https://gith
 华科GPA计算小工具 [HUSTERGS](https://github.com/HUSTERGS/HUST-GPA)
 
 华中大微校园-应用中心 [不必使用微信打开](http://m.hust.edu.cn/wechat/apps_center.jsp)
-
-Polyv-cn平台网络课程自动签到脚本 [polyv-fucker](https://github.com/ttzztztz/polyv-fucker)
 
 新版(2020)统一身份认证登录库 [libhustpass(Python)](https://github.com/naivekun/libhustpass)  [node-hustpass(Node.js)](https://github.com/ManiaciaChao/node-hustpass)
 
