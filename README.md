@@ -55,7 +55,7 @@ HustLaTeX模板库 [Github](https://github.com/hust-latex) [Website](https://hus
 
 ### CS 通用
 
-计科大多数实验的代码/报告 [husixu2](https://github.com/husixu1/HUST-Homeworks) [sabertazimi](https://github.com/sabertazimi/hust-lab) [WhatAboutMyStar/HUSTDoubleDegree](https://github.com/WhatAboutMyStar/HUSTDoubleDegree) [HUSTERS](https://github.com/HUSTERGS/HUSTCS)
+计科大多数实验的代码/报告 [husixu2](https://github.com/husixu1/HUST-Homeworks) [sabertazimi](https://github.com/sabertazimi/hust-lab) [WhatAboutMyStar](https://github.com/WhatAboutMyStar/HUSTDoubleDegree) [HUSTERS](https://github.com/HUSTERGS/HUSTCS)
 
 ### CS 大一
 
