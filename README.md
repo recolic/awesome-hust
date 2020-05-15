@@ -157,6 +157,8 @@ Polyv-cn平台网络课程自动签到脚本 [polyv-fucker](https://github.com/t
 
 SARS-CoV-2每日健康状况自动上报 [recolic](https://git.recolic.net/recolic-hust/hust-2019-ncov-submit-fucker) [misaka7690的改进版本](https://github.com/misaka7690/HUST-2019-ncov-submit-fucker)
 
+百度文档免券下载(已上云,支持原格式) [gufeijun](https://github.com/gufeijun/baiduwenku-go)
+
 ### CS/SE only
 
 Vivado Wrapper For Linux CommandLine [vivado-wrapper](https://github.com/recolic/vivado-wrapper) [AUR](https://aur.archlinux.org/packages/vivado-wrapper)
@@ -174,4 +176,3 @@ Vivado Wrapper For Linux CommandLine [vivado-wrapper](https://github.com/recolic
 > 在此仓库中有收录的项目作者均可在此添加一个通往捐助页面的链接。
 
 [recolic](https://recolic.net/donate/)
-
