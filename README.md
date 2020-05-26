@@ -118,7 +118,7 @@ C语言实验自动评测系统漏洞笔记(还有一点其它东西) [Anonymous
 
 Polyv-cn平台网络课程自动签到脚本 [polyv-fucker](https://github.com/ttzztztz/polyv-fucker)
 
-超星题库搜索小工具 [Macsed，macOS版本，其他版本自行翻译](https://github.com/MacsedProtoss/CxmoocAnswerBrowser)
+超星题库搜索小工具 [Macsed(仅限MacOS)](https://github.com/MacsedProtoss/CxmoocAnswerBrowser)
 
 蓝墨云课堂自动签到 [3b295](https://github.com/3b295/mosoteach_checkin) [Ailoli(带教程)](https://github.com/Ailoli/go_moso)
 [Macsed(安卓release版本)](https://github.com/MacsedSub/lmy-Fucker-Android-APK)
@@ -127,7 +127,7 @@ Polyv-cn平台网络课程自动签到脚本 [polyv-fucker](https://github.com/t
 [Macsed](https://github.com/MacsedSub/ZBH-Fucker)
 
 创高体育打卡脚本 **请勿在最新创高软件使用旧的创高体育打卡脚本，已知被检测**
-[新版过检测，仅限iOS+macOS](https://github.com/CGSportFucker/FakeRunner)
+[新版过检测,仅限iOS+macOS](https://github.com/CGSportFucker/FakeRunner)
 
 智享校园DNS劫持 [zhixiang-fucker](https://nmsl.party/zhixiang/index.html)
 
