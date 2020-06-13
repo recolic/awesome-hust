@@ -1,4 +1,4 @@
-# Awesome hust
+# Awesome HUST
 
 > The free software movement is basically a movement for freedom. It's based on values that are not purely material and practical. It's based on the idea that freedom is a benefit in itself. And that being allowed to be part of a community is a benefit in itself, having neighbors who can help you, who are free to help you—they are not told that they are pirates if they help you—is a benefit in itself, and that that's even more important than how powerful and reliable your software is.
 
@@ -88,7 +88,9 @@ C语言实验自动评测系统漏洞笔记(还有一点其它东西) [Anonymous
 
 并行编程实验-远程代码执行POC(价值不大) [recolic](https://git.recolic.net/root/educoder-fucker)
 
-计算机系统结构 [recolic(作业答案+实验)](https://git.recolic.net/recolic-hust/ca)
+计算机系统结构 [recolic(作业答案+实验+期末考试卷)](https://git.recolic.net/recolic-hust/ca)
+
+计算机组成原理课设 [recolic](https://git.recolic.net/recolic-hust/hust-cpu-design)
 
 ### CS 大四
 
@@ -101,6 +103,8 @@ C语言实验自动评测系统漏洞笔记(还有一点其它东西) [Anonymous
 计算机图形学实验 [recolic](https://git.recolic.net/recolic-hust/opengl)
 
 综合能力培养-NEMU  [niuyinmei](https://github.com/niuyinmei/ICS2018/) [recolic(到PA2)](https://git.recolic.net/recolic-hust/hust-x86-simulator) [ladlod(到PA3.2)](https://github.com/ladlod/ics_2018)
+
+信息存储技术报告 [recolic](https://git.recolic.net/recolic-hust/info-storage-tech)
 
 ### SE
 
