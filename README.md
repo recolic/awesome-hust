@@ -86,7 +86,7 @@ C语言实验自动评测系统漏洞笔记(还有一点其它东西) [Anonymous
 
 网络 [recolic](https://github.com/recolic/hust-networking)
 
-并行编程实验-远程代码执行POC(价值不大) [recolic](https://git.recolic.net/root/educoder-fucker)
+并行编程实验-远程代码执行POC(价值不大) [recolic](https://git.recolic.net/recolic-hust/educoder-fucker)
 
 计算机系统结构 [recolic(作业答案+实验+期末考试卷)](https://git.recolic.net/recolic-hust/ca)
 
@@ -105,6 +105,8 @@ C语言实验自动评测系统漏洞笔记(还有一点其它东西) [Anonymous
 综合能力培养-NEMU  [niuyinmei](https://github.com/niuyinmei/ICS2018/) [recolic(到PA2)](https://git.recolic.net/recolic-hust/hust-x86-simulator) [ladlod(到PA3.2)](https://github.com/ladlod/ics_2018)
 
 信息存储技术报告 [recolic](https://git.recolic.net/recolic-hust/info-storage-tech)
+
+毕业设计论文 [recolic](https://git.recolic.net/recolic-hust/graduate_design_report)
 
 ### SE
 
