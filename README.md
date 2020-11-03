@@ -165,6 +165,8 @@ SARS-CoV-2每日健康状况自动上报 [recolic](https://git.recolic.net/recol
 
 百度文档免券下载(已上云,支持原格式) [gufeijun](https://github.com/gufeijun/baiduwenku-go)
 
+华科自动外出申请（长时间）[MMMartt's gist](https://gist.github.com/MMMartt/4bca7b52503f62dc87b6e2a312834fe9)
+
 ### CS/SE only
 
 Vivado Wrapper For Linux CommandLine [vivado-wrapper](https://github.com/recolic/vivado-wrapper) [AUR](https://aur.archlinux.org/packages/vivado-wrapper)
