@@ -1,4 +1,4 @@
-# Awesome hust
+# Awesome HUST
 
 > The free software movement is basically a movement for freedom. It's based on values that are not purely material and practical. It's based on the idea that freedom is a benefit in itself. And that being allowed to be part of a community is a benefit in itself, having neighbors who can help you, who are free to help you—they are not told that they are pirates if they help you—is a benefit in itself, and that that's even more important than how powerful and reliable your software is.
 
@@ -55,7 +55,7 @@ HustLaTeX模板库 [Github](https://github.com/hust-latex) [Website](https://hus
 
 ### CS 通用
 
-计科大多数实验的代码/报告 [husixu2](https://github.com/husixu1/HUST-Homeworks) [sabertazimi](https://github.com/sabertazimi/hust-lab) [WhatAboutMyStar/HUSTDoubleDegree](https://github.com/WhatAboutMyStar/HUSTDoubleDegree) [HUSTERS](https://github.com/HUSTERGS/HUSTCS)
+计科大多数实验的代码/报告 [husixu2](https://github.com/husixu1/HUST-Homeworks) [sabertazimi](https://github.com/sabertazimi/hust-lab) [WhatAboutMyStar](https://github.com/WhatAboutMyStar/HUSTDoubleDegree) [HUSTERS](https://github.com/HUSTERGS/HUSTCS) [AlexFanw](https://github.com/AlexFanw/HUSTER-CS)
 
 ### CS 大一
 
@@ -78,17 +78,19 @@ C语言实验自动评测系统漏洞笔记(还有一点其它东西) [Anonymous
 
 计科verilog实验 [recolic](https://github.com/recolic/hust-verilog-exp) [zxc479773533](https://github.com/zxc479773533/HUST-Verilog-Labs)
 
-CSAPP(计算机组成原理)实验 Github资源极多 自行搜索
-
 ### CS 大三
 
-操作系统 [recolic](https://github.com/recolic/hust-os-exp) [zxc479773533](https://github.com/zxc479773533/HUST-OperatingSystem-Labs) [ladlod](https://github.com/ladlod/hust_cs_ug/tree/master/linux_proc)
+操作系统 [recolic-实验](https://github.com/recolic/hust-os-exp) [recolic-课设](https://git.recolic.net/recolic-hust/hust-os-design) [zxc479773533](https://github.com/zxc479773533/HUST-OperatingSystem-Labs) [ladlod](https://github.com/ladlod/hust_cs_ug/tree/master/linux_proc)
 
 数据库 [zxc479773533](https://github.com/zxc479773533/HUST-Database-Design) [recolic(Go+Js+Docker)](https://github.com/recolic/hust-database) [ladlod(java)](https://github.com/ladlod/hust_cs_ug/tree/master/database)
 
 网络 [recolic](https://github.com/recolic/hust-networking)
 
-并行编程实验-远程代码执行POC(价值不大) [recolic](https://git.recolic.net/root/educoder-fucker)
+并行编程实验-远程代码执行POC(价值不大) [recolic](https://git.recolic.net/recolic-hust/educoder-fucker)
+
+计算机系统结构 [recolic(作业答案+实验+期末考试卷)](https://git.recolic.net/recolic-hust/ca)
+
+计算机组成原理课设 [recolic](https://git.recolic.net/recolic-hust/hust-cpu-design)
 
 ### CS 大四
 
@@ -101,6 +103,10 @@ CSAPP(计算机组成原理)实验 Github资源极多 自行搜索
 计算机图形学实验 [recolic](https://git.recolic.net/recolic-hust/opengl)
 
 综合能力培养-NEMU  [niuyinmei](https://github.com/niuyinmei/ICS2018/) [recolic(到PA2)](https://git.recolic.net/recolic-hust/hust-x86-simulator) [ladlod(到PA3.2)](https://github.com/ladlod/ics_2018)
+
+信息存储技术报告 [recolic](https://git.recolic.net/recolic-hust/info-storage-tech)
+
+毕业设计论文 [recolic](https://git.recolic.net/recolic-hust/graduate_design_report)
 
 ### SE
 
@@ -116,6 +122,10 @@ CSAPP(计算机组成原理)实验 Github资源极多 自行搜索
 
 新版微助教自动签到/讨论提醒(支持二维码签到+GPS签到+普通签到) [wzj-sign-in-weixin](https://github.com/yun-mu/wzj-sign-in-weixin) (已上线微信后台，可直接关注使用)
 
+Polyv-cn平台网络课程自动签到脚本 [polyv-fucker](https://github.com/ttzztztz/polyv-fucker)
+
+超星题库搜索小工具 [Macsed(仅限MacOS)](https://github.com/MacsedProtoss/CxmoocAnswerBrowser)
+
 蓝墨云课堂自动签到 [3b295](https://github.com/3b295/mosoteach_checkin) [Ailoli(带教程)](https://github.com/Ailoli/go_moso)
 [Macsed(安卓release版本)](https://github.com/MacsedSub/lmy-Fucker-Android-APK)
 
@@ -123,7 +133,7 @@ CSAPP(计算机组成原理)实验 Github资源极多 自行搜索
 [Macsed](https://github.com/MacsedSub/ZBH-Fucker)
 
 创高体育打卡脚本 **请勿在最新创高软件使用旧的创高体育打卡脚本，已知被检测**
-[新版过检测，仅限iOS+macOS](https://github.com/CGSportFucker/FakeRunner)
+[新版过检测,仅限iOS+macOS](https://github.com/CGSportFucker/FakeRunner)
 
 智享校园DNS劫持 [zhixiang-fucker](https://nmsl.party/zhixiang/index.html)
 
@@ -139,9 +149,7 @@ CSAPP(计算机组成原理)实验 Github资源极多 自行搜索
 
 开源的有线校园网认证工具 [minieap](https://github.com/updateing/minieap) [mentohust(ArchWiki)](https://wiki.archlinux.org/index.php/MentoHUST_%28%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87%29)
 
-开源的无线校园网认证工具 [hust-login(with RSA support)](https://github.com/Cra1gTucker/hust-login) [hust\_wireless.py](https://github.com/haoqixu/hust_wireless) [hust\_wireless.sh 用于低性能设备的无依赖版本](https://github.com/recolic/awesome-hust/blob/master/res/hust_wireless.sh)
-
-<!--校园网在线充值(银联支付)(无需校园网) [recolic.net](https://recolic.net/hustCharge.php)-->
+开源的无线校园网认证工具 [hust-login(with RSA support)](https://github.com/Cra1gTucker/hust-login) [hust\_wireless.py](https://github.com/haoqixu/hust_wireless) [hust\_wireless.sh-用于低性能设备的精简版](https://github.com/recolic/awesome-hust/blob/master/res/hust_wireless.sh)
 
 华科电费相关 [在线查询(仅校园网)](http://202.114.18.218/main.aspx) [在线查询与充值(仅校园网)](http://sdhq.hust.edu.cn/ICBS/mobileweb/html/index.html)
 
@@ -151,11 +159,13 @@ CSAPP(计算机组成原理)实验 Github资源极多 自行搜索
 
 华中大微校园-应用中心 [不必使用微信打开](http://m.hust.edu.cn/wechat/apps_center.jsp)
 
-Polyv-cn平台网络课程自动签到脚本 [polyv-fucker](https://github.com/ttzztztz/polyv-fucker)
-
 新版(2020)统一身份认证登录库 [libhustpass(Python)](https://github.com/naivekun/libhustpass)  [node-hustpass(Node.js)](https://github.com/ManiaciaChao/node-hustpass)
 
-SARS-CoV-2每日健康状况自动上报 [recolic](https://git.recolic.net/recolic-hust/hust-2019-ncov-submit-fucker) [misaka7690的改进版本](https://github.com/misaka7690/HUST-2019-ncov-submit-fucker)
+SARS-CoV-2每日健康状况自动上报 [recolic](https://git.recolic.net/recolic-hust/hust-2019-ncov-submit-fucker) [misaka7690的改进版本](https://github.com/misaka7690/HUST-2019-ncov-submit-fucker) [winderica的无GUI版本](https://github.com/winderica/DailyReport)
+
+百度文档免券下载(已上云,支持原格式) [gufeijun](https://github.com/gufeijun/baiduwenku-go)
+
+华科自动外出申请（长时间）[MMMartt's gist](https://gist.github.com/MMMartt/4bca7b52503f62dc87b6e2a312834fe9)
 
 ### CS/SE only
 
@@ -173,5 +183,4 @@ Vivado Wrapper For Linux CommandLine [vivado-wrapper](https://github.com/recolic
 
 > 在此仓库中有收录的项目作者均可在此添加一个通往捐助页面的链接。
 
-[recolic](https://recolic.net/donate/)
-
+[recolic](https://recolic.cc/donate/)
