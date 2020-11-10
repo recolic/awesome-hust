@@ -120,7 +120,9 @@ C语言实验自动评测系统漏洞笔记(还有一点其它东西) [Anonymous
 
 微助教自动签到/答题提醒工具(支持GPS签到+普通签到) [recolic](https://github.com/recolic/micro-teaching-assistant-fucker)
 
-新版微助教自动签到/讨论提醒(支持二维码签到+GPS签到+普通签到) [wzj-sign-in-weixin](https://github.com/yun-mu/wzj-sign-in-weixin) (已上线微信后台，可直接关注使用)
+又一个微助教工具（支持普通/GPS/二维码签到）[yatm](https://github.com/ManiaciaChao/yatm)
+
+微助教自动签到/讨论提醒(支持GPS签到+普通签到) [wzj-sign-in-weixin](https://github.com/yun-mu/wzj-sign-in-weixin)<del> (已上线微信后台，可直接关注使用)</del>
 
 Polyv-cn平台网络课程自动签到脚本 [polyv-fucker](https://github.com/ttzztztz/polyv-fucker)
 
