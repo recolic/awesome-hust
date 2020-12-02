@@ -40,12 +40,12 @@ else:
 
 
 ```diff 
-# [dedepreacted soon]
+# [dedepreacted soon]⬇️
 ```
 大学物理网考答案 [recolic](https://dl.recolic.net/res/PhyExpExamAnswer.csv) [备用下载](https://github.com/recolic/awesome-hust/blob/master/res/PhyExpExamAnswer.csv) 
 
 ```diff 
-# [dedepreacted soon]
+# [dedepreacted soon]⬇️
 ```
 大学物理网考答案(更新的版本,保留作者信息) [html](https://dl.recolic.net/res/phyOnlineExam.unix.utf8.html) [html.gz备用下载](https://github.com/recolic/awesome-hust/blob/master/res/phyOnlineExam.unix.utf8.html.gz)
 [txt](https://github.com/recolic/awesome-hust/blob/master/res/phyOnlineExam.unix.utf8.txt) [txt备用下载](https://dl.recolic.net/res/phyOnlineExam.unix.utf8.txt) [xlsx](https://github.com/misaka7690/Data-collation/blob/master/answer.xlsx)
@@ -144,7 +144,7 @@ Polyv-cn平台网络课程自动签到脚本 [polyv-fucker](https://github.com/t
 超星题库搜索小工具 [Macsed(仅限MacOS)](https://github.com/MacsedProtoss/CxmoocAnswerBrowser)
 
 ```diff 
-# [dedepreacted]
+# [dedepreacted]⬇️
 ```
 蓝墨云课堂自动签到 [3b295](https://github.com/3b295/mosoteach_checkin) [Ailoli(带教程)](https://github.com/Ailoli/go_moso)
 [Macsed(安卓release版本)](https://github.com/MacsedSub/lmy-Fucker-Android-APK)
