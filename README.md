@@ -137,8 +137,12 @@ Polyv-cn平台网络课程自动签到脚本 [polyv-fucker](https://github.com/t
 
 超星题库搜索小工具 [Macsed(仅限MacOS)](https://github.com/MacsedProtoss/CxmoocAnswerBrowser)
 
-蓝墨云课堂自动签到 [3b295](https://github.com/3b295/mosoteach_checkin) [Ailoli(带教程)](https://github.com/Ailoli/go_moso)
+<font color=gray>*[dedepreacted]*</font>蓝墨云课堂自动签到 [3b295](https://github.com/3b295/mosoteach_checkin) [Ailoli(带教程)](https://github.com/Ailoli/go_moso)
 [Macsed(安卓release版本)](https://github.com/MacsedSub/lmy-Fucker-Android-APK)
+
+> why dedepreacted?
+> 
+> 确认API已更改，故如果链接里的repo没有更新的话，已经没法用了
 
 返校宣讲（招办汇公众号）刷扫码人数
 [Macsed](https://github.com/MacsedSub/ZBH-Fucker)
