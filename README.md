@@ -39,9 +39,15 @@ else:
 ![音叉实验](https://github.com/LoveThinkinghard/HUST-Physcis-Experiments-Plot-and-Dataprocess/blob/master/%E9%9F%B3%E5%8F%89%E5%AE%9E%E9%AA%8C/damped.png)![偏振与双折射](https://github.com/LoveThinkinghard/HUST-Physcis-Experiments-Plot-and-Dataprocess/blob/master/%E5%81%8F%E6%8C%AF%E4%B8%8E%E5%8F%8C%E6%8A%98%E5%B0%84/I-%CE%B8%20on%20polor%20axis.png)
 
 
-<font color=gray>*[dedepreacted soon]*</font>大学物理网考答案 [recolic](https://dl.recolic.net/res/PhyExpExamAnswer.csv) [备用下载](https://github.com/recolic/awesome-hust/blob/master/res/PhyExpExamAnswer.csv) 
+```diff 
+# [dedepreacted soon]
+```
+大学物理网考答案 [recolic](https://dl.recolic.net/res/PhyExpExamAnswer.csv) [备用下载](https://github.com/recolic/awesome-hust/blob/master/res/PhyExpExamAnswer.csv) 
 
-<font color=gray>*[dedepreacted soon]*</font>大学物理网考答案(更新的版本,保留作者信息) [html](https://dl.recolic.net/res/phyOnlineExam.unix.utf8.html) [html.gz备用下载](https://github.com/recolic/awesome-hust/blob/master/res/phyOnlineExam.unix.utf8.html.gz)
+```diff 
+# [dedepreacted soon]
+```
+大学物理网考答案(更新的版本,保留作者信息) [html](https://dl.recolic.net/res/phyOnlineExam.unix.utf8.html) [html.gz备用下载](https://github.com/recolic/awesome-hust/blob/master/res/phyOnlineExam.unix.utf8.html.gz)
 [txt](https://github.com/recolic/awesome-hust/blob/master/res/phyOnlineExam.unix.utf8.txt) [txt备用下载](https://dl.recolic.net/res/phyOnlineExam.unix.utf8.txt) [xlsx](https://github.com/misaka7690/Data-collation/blob/master/answer.xlsx)
 
 > why dedepreacted soon?
@@ -137,7 +143,10 @@ Polyv-cn平台网络课程自动签到脚本 [polyv-fucker](https://github.com/t
 
 超星题库搜索小工具 [Macsed(仅限MacOS)](https://github.com/MacsedProtoss/CxmoocAnswerBrowser)
 
-<font color=gray>*[dedepreacted]*</font>蓝墨云课堂自动签到 [3b295](https://github.com/3b295/mosoteach_checkin) [Ailoli(带教程)](https://github.com/Ailoli/go_moso)
+```diff 
+# [dedepreacted]
+```
+蓝墨云课堂自动签到 [3b295](https://github.com/3b295/mosoteach_checkin) [Ailoli(带教程)](https://github.com/Ailoli/go_moso)
 [Macsed(安卓release版本)](https://github.com/MacsedSub/lmy-Fucker-Android-APK)
 
 > why dedepreacted?
