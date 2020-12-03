@@ -167,6 +167,8 @@ Polyv-cn平台网络课程自动签到脚本 [polyv-fucker](https://github.com/t
 
 课程表自动导出(hub到ics) [MMMartt](https://github.com/MMMartt/hust-courses-to-ics)
 
+课程表自动导出(hub-excel到ics) [MMMartt](https://github.com/MMMartt/HUST-course-Excel-to-ICS)
+
 英语视听说刷在线时长 [Macsed](https://github.com/MacsedProtoss/NewHorizon-TimeFaker)
 
 英语视听说book2秒速做题 [Macsed](https://github.com/MacsedProtoss/unipus)
