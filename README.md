@@ -125,6 +125,22 @@ C语言实验自动评测系统漏洞笔记(还有一点其它东西) [Anonymous
 
 大一C语言课设 聪明的小蛇 [rapiz](https://github.com/Rapiz1/DungeonRush)  
 
+汇编程序设计 [2019年秋](https://github.com/ttzztztz/80x86_assembly-design)
+
+数据结构 [2019年秋_数独](https://github.com/ttzztztz/SudokuCLI)
+
+动态网页设计公选课 [2018年秋](https://github.com/ttzztztz/Dynamic-Web-Design-Homework) [2020年秋](https://github.com/ttzztztz/Dynamic-Web-Course-Homework)
+
+数字图像处理 DIP [2020年秋](https://github.com/ttzztztz/Digital-Image-Process-Course)
+
+编译原理 [2020年秋](https://github.com/ttzztztz/Compiler-Course-Design)
+
+计算机组成原理 Logisim [2020年秋](https://github.com/ttzztztz/Computer-Composition-Course-Homework)
+
+面向对象系统分析与设计 StarUML [2020年秋](https://github.com/ttzztztz/UML-Course-Design)
+
+软件体系结构 [2020年秋](https://github.com/ttzztztz/Software-Structure-Homework)
+
 ----
 
 ## 小工具
@@ -142,6 +158,8 @@ C语言实验自动评测系统漏洞笔记(还有一点其它东西) [Anonymous
 Polyv-cn平台网络课程自动签到脚本 [polyv-fucker](https://github.com/ttzztztz/polyv-fucker)
 
 超星题库搜索小工具 [Macsed(仅限MacOS)](https://github.com/MacsedProtoss/CxmoocAnswerBrowser)
+
+超星学习通签到工具(支持手势签到) [ttzztztz](https://github.com/ttzztztz/chaoxingsign)
 
 ```diff 
 # [dedepreacted]⬇️
