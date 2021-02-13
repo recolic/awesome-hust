@@ -66,6 +66,8 @@ HustLaTeX模板库 [Github](https://github.com/hust-latex) [Website](https://hus
 
 毕业论文Markdown2pdf(latex中转) [Github](https://github.com/pyrocat101/hust-thesis-pandoc)  
 
+动态网页设计公选课 [2018年秋](https://github.com/ttzztztz/Dynamic-Web-Design-Homework) [2020年秋](https://github.com/ttzztztz/Dynamic-Web-Course-Homework)
+
 ### CS 通用
 
 计科大多数实验的代码/报告 [husixu2](https://github.com/husixu1/HUST-Homeworks) [sabertazimi](https://github.com/sabertazimi/hust-lab) [WhatAboutMyStar](https://github.com/WhatAboutMyStar/HUSTDoubleDegree) [HUSTERS](https://github.com/HUSTERGS/HUSTCS) [AlexFanw](https://github.com/AlexFanw/HUSTER-CS) [winderica](https://github.com/winderica/GoodbyeHUST)
@@ -121,25 +123,27 @@ C语言实验自动评测系统漏洞笔记(还有一点其它东西) [Anonymous
 
 毕业设计论文 [recolic](https://git.recolic.net/recolic-hust/graduate_design_report)
 
-### SE
+### SE 大一
 
-大一C语言课设 聪明的小蛇 [rapiz](https://github.com/Rapiz1/DungeonRush)  
+C语言课设 聪明的小蛇 [rapiz](https://github.com/Rapiz1/DungeonRush)  
 
-汇编程序设计 [2019年秋](https://github.com/ttzztztz/80x86_assembly-design)
+### SE 大二
 
-数据结构 [2019年秋_数独](https://github.com/ttzztztz/SudokuCLI)
+汇编程序设计 [ttzztztz_2019年秋](https://github.com/ttzztztz/80x86_assembly-design)
 
-动态网页设计公选课 [2018年秋](https://github.com/ttzztztz/Dynamic-Web-Design-Homework) [2020年秋](https://github.com/ttzztztz/Dynamic-Web-Course-Homework)
+数据结构 [ttzztztz_2019年秋_数独](https://github.com/ttzztztz/SudokuCLI)
 
-数字图像处理 DIP [2020年秋](https://github.com/ttzztztz/Digital-Image-Process-Course)
+### SE大三
 
-编译原理 [2020年秋](https://github.com/ttzztztz/Compiler-Course-Design)
+数字图像处理 DIP [ttzztztz_2020年秋](https://github.com/ttzztztz/Digital-Image-Process-Course)
 
-计算机组成原理 Logisim [2020年秋](https://github.com/ttzztztz/Computer-Composition-Course-Homework)
+编译原理 [ttzztztz_2020年秋](https://github.com/ttzztztz/Compiler-Course-Design)
 
-面向对象系统分析与设计 StarUML [2020年秋](https://github.com/ttzztztz/UML-Course-Design)
+计算机组成原理 Logisim [ttzztztz_2020年秋](https://github.com/ttzztztz/Computer-Composition-Course-Homework)
 
-软件体系结构 [2020年秋](https://github.com/ttzztztz/Software-Structure-Homework)
+面向对象系统分析与设计 StarUML [ttzztztz_2020年秋](https://github.com/ttzztztz/UML-Course-Design)
+
+软件体系结构 [ttzztztz_2020年秋](https://github.com/ttzztztz/Software-Structure-Homework)
 
 ----
 
@@ -161,15 +165,7 @@ Polyv-cn平台网络课程自动签到脚本 [polyv-fucker](https://github.com/t
 
 超星学习通签到工具(支持手势签到) [ttzztztz](https://github.com/ttzztztz/chaoxingsign)
 
-```diff 
-# [dedepreacted]⬇️
-```
-蓝墨云课堂自动签到 [3b295](https://github.com/3b295/mosoteach_checkin) [Ailoli(带教程)](https://github.com/Ailoli/go_moso)
-[Macsed(安卓release版本)](https://github.com/MacsedSub/lmy-Fucker-Android-APK)
-
-> why dedepreacted?
-> 
-> 确认API已更改，故如果链接里的repo没有更新的话，已经没法用了
+蓝墨云课堂自动签到 [YAMT-Fucker](https://github.com/CGSportFucker/YAMT-Fucker)
 
 返校宣讲（招办汇公众号）刷扫码人数
 [Macsed](https://github.com/MacsedSub/ZBH-Fucker)
