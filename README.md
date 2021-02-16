@@ -131,7 +131,7 @@ C语言课设 聪明的小蛇 [rapiz](https://github.com/Rapiz1/DungeonRush)
 
 汇编程序设计 [ttzztztz_2019年秋](https://github.com/ttzztztz/80x86_assembly-design)
 
-数据结构 [ttzztztz_2019年秋_数独](https://github.com/ttzztztz/SudokuCLI)
+数据结构 [ttzztztz_2019年秋_数独](https://github.com/ttzztztz/SudokuCLI) [mhggpo_数独](https://github.com/mhggpo/NewSudoku)
 
 ### SE大三
 
