@@ -203,6 +203,8 @@ Polyv-cn平台网络课程自动签到脚本 [polyv-fucker](https://github.com/t
 
 SARS-CoV-2每日健康状况自动上报 [recolic](https://git.recolic.net/recolic-hust/hust-2019-ncov-submit-fucker) [misaka7690的改进版本](https://github.com/misaka7690/HUST-2019-ncov-submit-fucker) [winderica的无GUI版本](https://github.com/winderica/DailyReport)
 
+华中大绿色通行码生成 [xylonx的Nodejs版](https://github.com/xylonx/access-qrcode-fxxker)
+
 百度文档免券下载(已上云,支持原格式) [gufeijun](https://github.com/gufeijun/baiduwenku-go)
 
 华科自动外出申请（长时间）[MMMartt's gist](https://gist.github.com/MMMartt/4bca7b52503f62dc87b6e2a312834fe9)
