@@ -133,6 +133,8 @@ C语言课设 聪明的小蛇 [rapiz](https://github.com/Rapiz1/DungeonRush)
 
 数据结构 [ttzztztz_2019年秋_数独](https://github.com/ttzztztz/SudokuCLI) [mhggpo_数独](https://github.com/mhggpo/NewSudoku)
 
+人机交互设计 [Macsed_2020年秋](https://github.com/MacsedProtoss/HMI_Course_Design)
+
 ### SE大三
 
 数字图像处理 DIP [ttzztztz_2020年秋](https://github.com/ttzztztz/Digital-Image-Process-Course)
