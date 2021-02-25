@@ -131,7 +131,7 @@ C语言课设 聪明的小蛇 [rapiz](https://github.com/Rapiz1/DungeonRush)
 
 汇编程序设计 [ttzztztz_2019年秋](https://github.com/ttzztztz/80x86_assembly-design)
 
-数据结构 [ttzztztz_2019年秋_数独](https://github.com/ttzztztz/SudokuCLI)
+数据结构 [ttzztztz_2019年秋_数独](https://github.com/ttzztztz/SudokuCLI) [mhggpo_数独](https://github.com/mhggpo/NewSudoku)
 
 ### SE大三
 
@@ -202,6 +202,8 @@ Polyv-cn平台网络课程自动签到脚本 [polyv-fucker](https://github.com/t
 新版(2020)统一身份认证登录库 [libhustpass(Python)](https://github.com/naivekun/libhustpass)  [node-hustpass(Node.js)](https://github.com/ManiaciaChao/node-hustpass)
 
 SARS-CoV-2每日健康状况自动上报 [recolic](https://git.recolic.net/recolic-hust/hust-2019-ncov-submit-fucker) [misaka7690的改进版本](https://github.com/misaka7690/HUST-2019-ncov-submit-fucker) [winderica的无GUI版本](https://github.com/winderica/DailyReport)
+
+华中大绿色通行码生成 [xylonx的Nodejs版](https://github.com/xylonx/access-qrcode-fxxker) [CGSportFucker-已部署到GitHubPages](https://cgsportfucker.github.io/HQPC-Fucker/)
 
 百度文档免券下载(已上云,支持原格式) [gufeijun](https://github.com/gufeijun/baiduwenku-go)
 
