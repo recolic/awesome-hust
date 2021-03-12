@@ -153,11 +153,7 @@ C语言课设 聪明的小蛇 [rapiz](https://github.com/Rapiz1/DungeonRush)
 
 ### 全校通用
 
-微助教自动签到/答题提醒工具(支持GPS签到+普通签到) [recolic](https://github.com/recolic/micro-teaching-assistant-fucker)
-
-又一个微助教工具（支持普通/GPS/二维码签到）[yatm](https://github.com/ManiaciaChao/yatm)
-
-微助教自动签到/讨论提醒(支持GPS签到+普通签到) [wzj-sign-in-weixin](https://github.com/yun-mu/wzj-sign-in-weixin)<del> (已上线微信后台，可直接关注使用)</del>
+微助教自动签到工具（支持普通/GPS/二维码签到）[yatm](https://github.com/ManiaciaChao/yatm)
 
 签个马 签到平台框架(支持多任务超星签到+微助教Android/Web二维码回传签到+微信通知推送) [sign-your-horse](https://github.com/naivekun/sign-your-horse) [cloudscan-android](https://github.com/naivekun/cloudscan-android) [cloudscan-web](https://github.com/EarthCompass/CloudScan-WEB)
 
