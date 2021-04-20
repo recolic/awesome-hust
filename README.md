@@ -32,7 +32,7 @@ else:
 
 ### 全校通用
 
-大学物理实验相关(数据处理套装+网站登陆API+拉取用户信息) [Recolic](https://github.com/recolic/phy-exp) 
+大学物理实验相关(数据处理套装+网站登陆API+拉取用户信息) [Recolic](https://git.recolic.net/recolic-hust/phy-exp) 
 
 大学物理实验(二)画图 [`偏振与双折射`](https://github.com/LoveThinkinghard/HUST-Physcis-Experiments-Plot-and-Dataprocess/tree/master/%E5%81%8F%E6%8C%AF%E4%B8%8E%E5%8F%8C%E6%8A%98%E5%B0%84) [`音叉`](https://github.com/LoveThinkinghard/HUST-Physcis-Experiments-Plot-and-Dataprocess/tree/master/%E9%9F%B3%E5%8F%89%E5%AE%9E%E9%AA%8C) [`导热系数`](https://github.com/LoveThinkinghard/HUST-Physcis-Experiments-Plot-and-Dataprocess/tree/master/%E5%AF%BC%E7%83%AD%E7%B3%BB%E6%95%B0)
 
@@ -42,13 +42,13 @@ else:
 ```diff 
 # [dedepreacted soon]⬇️
 ```
-大学物理网考答案 [recolic](https://dl.recolic.net/res/PhyExpExamAnswer.csv) [备用下载](https://github.com/recolic/awesome-hust/blob/master/res/PhyExpExamAnswer.csv) 
+大学物理网考答案 [recolic](https://github.com/recolic/awesome-hust/blob/master/res/PhyExpExamAnswer.csv) 
 
 ```diff 
 # [dedepreacted soon]⬇️
 ```
-大学物理网考答案(更新的版本,保留作者信息) [html](https://dl.recolic.net/res/phyOnlineExam.unix.utf8.html) [html.gz备用下载](https://github.com/recolic/awesome-hust/blob/master/res/phyOnlineExam.unix.utf8.html.gz)
-[txt](https://github.com/recolic/awesome-hust/blob/master/res/phyOnlineExam.unix.utf8.txt) [txt备用下载](https://dl.recolic.net/res/phyOnlineExam.unix.utf8.txt) [xlsx](https://github.com/misaka7690/Data-collation/blob/master/answer.xlsx)
+大学物理网考答案(更新的版本,保留作者信息) [html](https://dl.recolic.net/res/phyOnlineExam.unix.utf8.html) [html.gz](https://github.com/recolic/awesome-hust/blob/master/res/phyOnlineExam.unix.utf8.html.gz)
+[txt](https://github.com/recolic/awesome-hust/blob/master/res/phyOnlineExam.unix.utf8.txt) [xlsx](https://github.com/misaka7690/Data-collation/blob/master/answer.xlsx)
 
 > why dedepreacted soon?
 > 
@@ -173,7 +173,7 @@ Polyv-cn平台网络课程自动签到脚本 [polyv-fucker](https://github.com/t
 
 智享校园DNS劫持 [zhixiang-fucker](https://nmsl.party/zhixiang/index.html)
 
-公选自动监视自动抢课/针对单个课程高并发抢课(用于课程交易时使用)(非常简陋，但是能用) [recolic](https://github.com/recolic/hust_wsxk_fucker) 
+公选自动监视自动抢课/针对单个课程高并发抢课(用于课程交易时使用)(非常简陋，但是能用) [recolic](https://git.recolic.net/recolic-hust/hust_wsxk_fucker) 
 
 适合华科校园卡的MIFARE卡复制教程 [recolic](https://gist.github.com/recolic/d7da64545e9330c8a79fed283d6955c4)
 
