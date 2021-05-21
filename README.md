@@ -215,6 +215,8 @@ Vivado Wrapper For Linux CommandLine [vivado-wrapper](https://github.com/recolic
 
 > 放置对华科学生有**针对性**帮助的资料或其他材料。
 
+华中科技大学人工智能与自动化学院课程资料：[AIAHUB](https://github.com/AIAHUB/HUST-AIA-Courses-Resource/) （包含部分深度学习及相关基础资料）
+
 ### 全校通用
 
 [华中科技大学OEI&SES飞跃手册](https://hust-feiyue.github.io)
