@@ -145,6 +145,22 @@ C语言课设 聪明的小蛇 [rapiz](https://github.com/Rapiz1/DungeonRush)
 
 软件体系结构 [ttzztztz_2020年秋](https://github.com/ttzztztz/Software-Structure-Homework)
 
+虚拟现实技术/VR [ttzztztz_2021年春](https://github.com/ttzztztz/sse-vr)
+
+云计算 [ttzztztz_2021年春](https://github.com/ttzztztz/sse-cloud-computing)
+
+计算机网络 [ttzztztz_2021年春](https://github.com/ttzztztz/sse-computer-network)
+
+ERP与供应链 [ttzztztz_2021年春](https://github.com/ttzztztz/sse-erp)
+
+软件过程管理 [ttzztztz_2021年春](https://github.com/ttzztztz/sse-procedure)
+
+软件文档写作 [ttzztztz_2021年春](https://github.com/ttzztztz/sse-document)
+
+软件测试 [ttzztztz_2021年春](https://github.com/ttzztztz/sse-test)
+
+工程实训 [ttzztztz_IT技术论坛](https://github.com/UniqueStudio/UniqueBBS)
+
 ----
 
 ## 小工具
