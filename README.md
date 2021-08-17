@@ -225,6 +225,8 @@ SARS-CoV-2每日健康状况自动上报 [recolic](https://git.recolic.net/recol
 
 ### CS/SE only
 
+通过 C/C++ 代码生成流程图 [cxx2flow](https://github.com/Enter-tainer/cxx2flow)
+
 Vivado Wrapper For Linux CommandLine [vivado-wrapper](https://github.com/recolic/vivado-wrapper) [AUR](https://aur.archlinux.org/packages/vivado-wrapper)
 
 ## 其他资料
