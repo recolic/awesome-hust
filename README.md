@@ -243,4 +243,5 @@ Vivado Wrapper For Linux CommandLine [vivado-wrapper](https://github.com/recolic
 
 > 在此仓库中有收录的项目作者均可在此添加一个通往捐助页面的链接。
 
-[recolic](https://recolic.cc/donate/)
+<!-- If you are an active contributor, PLEASE add your donation link. DO NOT be shy to do this.  -->
+
