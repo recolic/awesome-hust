@@ -161,10 +161,6 @@ ERP与供应链 [ttzztztz_2021年春](https://github.com/ttzztztz/sse-erp)
 
 工程实训 [ttzztztz_IT技术论坛](https://github.com/UniqueStudio/UniqueBBS)
 
-### CSE大一
-
-C语言程序设计实验 [jingfelix-2020](https://github.com/jingfelix/HUST-C-Programming-language)
-
 ### CSE大二
 
 网络空间安全综合实践 （I） [jingfelix-2021](https://github.com/jingfelix/HUST-CSE-Pass-level-1)
