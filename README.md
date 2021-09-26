@@ -163,7 +163,7 @@ ERP与供应链 [ttzztztz_2021年春](https://github.com/ttzztztz/sse-erp)
 
 ### CSE大二
 
-网络空间安全综合实践 （I） [jingfelix-2021](https://github.com/jingfelix/HUST-CSE-Pass-level-1)
+网络空间安全综合实践 (I) [jingfelix-2021](https://github.com/jingfelix/HUST-CSE-Pass-level-1)
 
 ----
 
