@@ -2,7 +2,7 @@
 
 > The free software movement is basically a movement for freedom. It's based on values that are not purely material and practical. It's based on the idea that freedom is a benefit in itself. And that being allowed to be part of a community is a benefit in itself, having neighbors who can help you, who are free to help you—they are not told that they are pirates if they help you—is a benefit in itself, and that that's even more important than how powerful and reliable your software is.
 
-适用于华中科技大学的生存指南索引计划，包括但不仅限于报告、实验、小工具等。(主要收录计科和软工，适用于其他专业的部分被欢迎但不被维护)
+适用于华中科技大学的生存指南索引计划，包括但不仅限于报告、实验、小工具等。(主要收录计科，软工和网安学院，适用于其他专业的部分被欢迎但不被维护)
 
 请遵守以下项目使用的开源许可证或知识共享协议，你不应该使用没有给出许可证的项目。此索引本身是Public Domain的。
 
@@ -26,6 +26,8 @@ elif target in CS:
     refer_to(CS)
 elif target in SE:
     refer_to(SE)
+elif target in CSE:
+    refer_to(CSE)
 else:
     raise NotSupportedError()
 ```
@@ -133,7 +135,7 @@ C语言课设 聪明的小蛇 [rapiz](https://github.com/Rapiz1/DungeonRush)
 
 人机交互设计 [Macsed_2020年秋](https://github.com/MacsedProtoss/HMI_Course_Design)
 
-### SE大三
+### SE 大三
 
 数字图像处理 DIP [ttzztztz_2020年秋](https://github.com/ttzztztz/Digital-Image-Process-Course)
 
@@ -160,6 +162,14 @@ ERP与供应链 [ttzztztz_2021年春](https://github.com/ttzztztz/sse-erp)
 软件测试 [ttzztztz_2021年春](https://github.com/ttzztztz/sse-test)
 
 工程实训 [ttzztztz_IT技术论坛](https://github.com/UniqueStudio/UniqueBBS)
+
+### CSE 大一
+
+C语言程序设计实验 [jingfelix-2020](https://github.com/jingfelix/HUST-C-Programming-language)
+
+### CSE 大二
+
+网络空间安全综合实践 (I) [jingfelix-2021](https://github.com/jingfelix/HUST-CSE-Pass-level-1)
 
 ----
 
@@ -223,7 +233,7 @@ SARS-CoV-2每日健康状况自动上报 [recolic](https://git.recolic.net/recol
 
 华科自动外出申请（长时间）[MMMartt's gist](https://gist.github.com/MMMartt/4bca7b52503f62dc87b6e2a312834fe9)
 
-### CS/SE only
+### CS/SE/CSE only
 
 通过 C/C++ 代码生成流程图 [cxx2flow](https://github.com/Enter-tainer/cxx2flow)
 
