@@ -217,7 +217,9 @@ Polyv-cn平台网络课程自动签到脚本 [polyv-fucker](https://github.com/t
 
 华科电费相关 [在线查询(仅校园网)](http://202.114.18.218/main.aspx) [在线查询与充值(仅校园网)](http://sdhq.hust.edu.cn/ICBS/mobileweb/html/index.html)
 
-华科图书馆Chrome/Chromium插件 [HUST-Library](https://chrome.google.com/webstore/detail/hust-library/abbdkngccefmkgifkakoglhpifohekig)
+豆瓣图书华科图书馆借阅情况查询助手
+- 油猴脚本(新版) [Douban Book HUST Helper](https://greasyfork.org/zh-CN/scripts/4720-douban-book-hust-helper)
+- Chrome/Chromium插件 [HUST-Library](https://chrome.google.com/webstore/detail/hust-library/abbdkngccefmkgifkakoglhpifohekig)
 
 华科GPA计算小工具 [HUSTERGS](https://github.com/HUSTERGS/HUST-GPA)
 
