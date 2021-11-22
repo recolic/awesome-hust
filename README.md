@@ -131,7 +131,7 @@ C语言课设 聪明的小蛇 [rapiz](https://github.com/Rapiz1/DungeonRush)
 
 汇编程序设计 [ttzztztz_2019年秋](https://github.com/ttzztztz/80x86_assembly-design)
 
-数据结构 [ttzztztz_2019年秋_数独](https://github.com/ttzztztz/SudokuCLI) [mhggpo_数独](https://github.com/mhggpo/NewSudoku)
+数据结构 [ttzztztz_2019年秋_数独](https://github.com/ttzztztz/SudokuCLI) [mhggpo_数独](https://github.com/mhggpo/NewSudoku) [junkfood_数独](https://github.com/JunkFood02/Sudoku)
 
 人机交互设计 [Macsed_2020年秋](https://github.com/MacsedProtoss/HMI_Course_Design)
 
