@@ -171,6 +171,8 @@ C语言程序设计实验 [jingfelix-2020](https://github.com/jingfelix/HUST-C-P
 
 网络空间安全综合实践 (I) [jingfelix-2021](https://github.com/jingfelix/HUST-CSE-Pass-level-1)
 
+数据结构课程设计:智慧校园食堂消费系统 [Ganliber-2022](https://github.com/Ganliber/Campus-Card---Canteen-Management-System)
+
 ----
 
 ## 小工具
