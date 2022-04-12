@@ -199,7 +199,7 @@ Polyv-cn平台网络课程自动签到脚本 [polyv-fucker](https://github.com/t
 创高体育打卡脚本 **请勿在最新创高软件使用旧的创高体育打卡脚本，已知被检测**
 [新版过检测,仅限iOS+macOS](https://github.com/CGSportFucker/FakeRunner)
 
-智享校园DNS劫持 [zhixiang-fucker](https://nmsl.party/zhixiang/index.html)
+智享校园免费洗澡工具 [zhixiang-fucker](https://nmsl.party/zhixiang/index.html)
 
 适合华科校园卡的MIFARE卡复制教程 [recolic](https://gist.github.com/recolic/d7da64545e9330c8a79fed283d6955c4)
 
