@@ -72,54 +72,43 @@ HustLaTeX模板库 [Github](https://github.com/hust-latex) [Website](https://hus
 
 ### CS 通用
 
-计科大多数实验的代码/报告 [husixu2](https://github.com/husixu1/HUST-Homeworks) [sabertazimi](https://github.com/sabertazimi/hust-lab) [WhatAboutMyStar](https://github.com/WhatAboutMyStar/HUSTDoubleDegree) [HUSTERS](https://github.com/HUSTERGS/HUSTCS) [AlexFanw](https://github.com/AlexFanw/HUSTER-CS) [winderica](https://github.com/winderica/GoodbyeHUST) [recolic](https://git.recolic.net/recolic-hust/hust-homeworks-bundle) ([github-mirror](https://github.com/recolic/hust-homeworks-bundle))
+计科大多数实验的代码/报告 [husixu2](https://github.com/husixu1/HUST-Homeworks) [sabertazimi](https://github.com/sabertazimi/hust-lab) [WhatAboutMyStar](https://github.com/WhatAboutMyStar/HUSTDoubleDegree) [HUSTERS](https://github.com/HUSTERGS/HUSTCS) [AlexFanw](https://github.com/AlexFanw/HUSTER-CS) [winderica](https://github.com/winderica/GoodbyeHUST) [recolic](https://git.recolic.net/recolic-hust/hust-homeworks-bundle)([recolic-mirror](https://github.com/recolic/hust-homeworks-bundle))
 
 ### CS 大一
 
-C课设 [recolic-2017](https://git.recolic.net/recolic-hust/hust-homeworks-bundle/-/tree/master/hust-c-programming-homework) [zxc479773533](https://github.com/zxc479773533/C-curriculum-design) [ladlod-2017](https://github.com/ladlod/hust_cs_ug/tree/master/c_program)
+C课设 [zxc479773533](https://github.com/zxc479773533/C-curriculum-design) [ladlod-2017](https://github.com/ladlod/hust_cs_ug/tree/master/c_program)
 
 C语言实验自动评测系统:用C++或Python代码交作业! [recolic](https://dl.recolic.net/res/usecpy.c)
 
 C语言实验自动评测系统漏洞笔记(还有一点其它东西) [Anonymous Guy](https://nmsl.party/hust-c)
-<!-- 我的recolic@berkeley.edu邮箱收到一封匿名邮件请求代提交此条目，因此我不承担一切责任 -->
 
-数据结构实验 [recolic-2017](https://git.recolic.net/recolic-hust/hust-homeworks-bundle/-/tree/master/hust-datastructure-homework) [zxc479773533](https://github.com/zxc479773533/HUST-DataStructure-Labs)
+数据结构实验 [zxc479773533](https://github.com/zxc479773533/HUST-DataStructure-Labs)
 
-数据结构课设 [recolic-2017](https://git.recolic.net/recolic-hust/hust-homeworks-bundle/-/tree/master/hust-datastructure-homework-final) [zxc479773533-2017](https://github.com/zxc479773533/DS-curriculum-design)
+数据结构课设 [zxc479773533-2017](https://github.com/zxc479773533/DS-curriculum-design)
 
 ### CS 大二
 
 汇编实验 [qzwlecr-2018](https://github.com/qzwlecr/80x86-asm-learning)
 
-数电实验 [recolic](https://git.recolic.net/recolic-hust/hust-homeworks-bundle/-/tree/master/hust-digital-electronics-exp) [zxc479773533](https://github.com/zxc479773533/HUST-Verilog-Labs)
+数电实验 [zxc479773533](https://github.com/zxc479773533/HUST-Verilog-Labs)
 
-计科verilog实验 [recolic](https://git.recolic.net/recolic-hust/hust-homeworks-bundle/-/tree/master/hust-verilog-exp) [zxc479773533](https://github.com/zxc479773533/HUST-Verilog-Labs)
+verilog实验 [zxc479773533](https://github.com/zxc479773533/HUST-Verilog-Labs)
 
 ### CS 大三
 
-操作系统 [recolic-实验](https://git.recolic.net/recolic-hust/hust-homeworks-bundle/-/tree/master/hust-os-exp) [recolic-课设](https://git.recolic.net/recolic-hust/hust-homeworks-bundle/-/tree/master/hust-os-design) [zxc479773533](https://github.com/zxc479773533/HUST-OperatingSystem-Labs) [ladlod](https://github.com/ladlod/hust_cs_ug/tree/master/linux_proc)
+操作系统 [zxc479773533](https://github.com/zxc479773533/HUST-OperatingSystem-Labs) [ladlod](https://github.com/ladlod/hust_cs_ug/tree/master/linux_proc)
 
-数据库 [zxc479773533](https://github.com/zxc479773533/HUST-Database-Design) [recolic(Go+Js+Docker)](https://git.recolic.net/recolic-hust/hust-homeworks-bundle/-/tree/master/hust-database) [ladlod(java)](https://github.com/ladlod/hust_cs_ug/tree/master/database)
-
-网络 [recolic](https://git.recolic.net/recolic-hust/hust-homeworks-bundle/-/tree/master/hust-networking)
-
-并行编程实验-远程代码执行POC(价值不大) [recolic](https://git.recolic.net/recolic-hust/educoder-fucker)
+数据库 [zxc479773533](https://github.com/zxc479773533/HUST-Database-Design) [ladlod(java)](https://github.com/ladlod/hust_cs_ug/tree/master/database)
 
 计算机系统结构 [recolic(作业答案+实验+期末考试卷)](https://git.recolic.net/recolic-hust/hust-homeworks-bundle/-/tree/master/system-architecture)
-
-计算机组成原理课设 [recolic](https://git.recolic.net/recolic-hust/hust-homeworks-bundle/-/tree/master/hust-cpu-design)
 
 ### CS 大四
 
 生产实习报告 [recolic(脱敏)](https://git.recolic.net/recolic-hust/intern-report)
 
-大数据实验+面向平台的编程实验 [recolic](https://git.recolic.net/recolic-hust/hust-homeworks-bundle/-/tree/master/hust-bigdata-platformprog)
-
 人工智能实验 [ladlod(hanoi)](https://github.com/ladlod/hust_cs_ug/tree/master/aiExp)
 
-计算机图形学实验 [recolic](https://git.recolic.net/recolic-hust/hust-homeworks-bundle/-/tree/master/opengl)
-
-综合能力培养-NEMU  [niuyinmei](https://github.com/niuyinmei/ICS2018/) [recolic(到PA2)](https://git.recolic.net/recolic-hust/hust-homeworks-bundle/-/tree/master/hust-x86-simulator) [ladlod(到PA3.2)](https://github.com/ladlod/ics_2018)
+综合能力培养-NEMU  [niuyinmei](https://github.com/niuyinmei/ICS2018/) [ladlod(到PA3.2)](https://github.com/ladlod/ics_2018)
 
 毕业设计论文 [recolic](https://git.recolic.net/recolic-hust/graduate_design_report)
 
