@@ -227,7 +227,7 @@ Polyv-cn平台网络课程自动签到脚本 [polyv-fucker](https://github.com/t
 
 新版(2020)统一身份认证登录库 [libhustpass(Python)](https://github.com/naivekun/libhustpass)  [node-hustpass(Node.js)](https://github.com/ManiaciaChao/node-hustpass)
 
-SARS-CoV-2每日健康状况自动上报 [recolic](https://git.recolic.net/recolic-hust/hust-2019-ncov-submit-fucker) [misaka7690的改进版本](https://github.com/misaka7690/HUST-2019-ncov-submit-fucker) [winderica的无GUI版本](https://github.com/winderica/DailyReport)
+SARS-CoV-2每日健康状况自动上报 [misaka7690的改进版本](https://github.com/misaka7690/HUST-2019-ncov-submit-fucker) [winderica的无GUI版本](https://github.com/winderica/DailyReport)
 
 华中大绿色通行码生成 [xylonx的Nodejs版](https://github.com/xylonx/access-qrcode-fxxker) [CGSportFucker-已部署到GitHubPages](https://cgsportfucker.github.io/HQPC-Fucker/)
 
@@ -239,7 +239,7 @@ SARS-CoV-2每日健康状况自动上报 [recolic](https://git.recolic.net/recol
 
 通过 C/C++ 代码生成流程图 [cxx2flow](https://github.com/Enter-tainer/cxx2flow)
 
-Vivado Wrapper For Linux CommandLine [vivado-wrapper](https://github.com/recolic/vivado-wrapper) [AUR](https://aur.archlinux.org/packages/vivado-wrapper)
+Vivado Wrapper For Linux CommandLine [vivado-wrapper](https://github.com/recolic/vivado-wrapper)
 
 ## 其他资料
 
