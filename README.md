@@ -140,7 +140,7 @@ C语言课设 聪明的小蛇 [rapiz](https://github.com/Rapiz1/DungeonRush)
 
 云计算 [ttzztztz_2021年春](https://github.com/ttzztztz/sse-cloud-computing)
 
-计算机网络 [ttzztztz_2021年春](https://github.com/ttzztztz/sse-computer-network)
+计算机网络 [ttzztztz_2021年春](https://github.com/ttzztztz/sse-computer-network) [2022春](https://github.com/rapiz1/ss-pcap-visual/)
 
 ERP与供应链 [ttzztztz_2021年春](https://github.com/ttzztztz/sse-erp)
 
