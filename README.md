@@ -224,6 +224,8 @@ SARS-CoV-2每日健康状况自动上报 [misaka7690的改进版本](https://git
 
 华科自动外出申请（长时间）[MMMartt's gist](https://gist.github.com/MMMartt/4bca7b52503f62dc87b6e2a312834fe9)
 
+军理/军事理论电子电气资源网线上作业答案自动填充脚本 [gongchen618](https://github.com/gongchen618/HUST-MT-Helper)
+
 ### CS/SE/CSE only
 
 通过 C/C++ 代码生成流程图 [cxx2flow](https://github.com/Enter-tainer/cxx2flow)
