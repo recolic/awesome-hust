@@ -224,6 +224,8 @@ SARS-CoV-2每日健康状况自动上报 [misaka7690的改进版本](https://git
 
 军理/军事理论电子电气资源网线上作业答案自动填充脚本 [gongchen618](https://github.com/gongchen618/HUST-MT-Helper)
 
+为华科沁苑等老旧寝室安装简易门禁 [vaaandark](https://github.com/vaaandark/smart-door)
+
 ### CS/SE/CSE only
 
 通过 C/C++ 代码生成流程图 [cxx2flow](https://github.com/Enter-tainer/cxx2flow)
