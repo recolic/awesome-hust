@@ -142,7 +142,7 @@ C语言课设 聪明的小蛇 [rapiz](https://github.com/Rapiz1/DungeonRush)
 
 云计算 [ttzztztz_2021年春](https://github.com/ttzztztz/sse-cloud-computing)
 
-计算机网络 [ttzztztz_2021年春](https://github.com/ttzztztz/sse-computer-network)
+计算机网络 [ttzztztz_2021年春](https://github.com/ttzztztz/sse-computer-network) [2022春](https://github.com/rapiz1/ss-pcap-visual/)
 
 ERP与供应链 [ttzztztz_2021年春](https://github.com/ttzztztz/sse-erp)
 
@@ -156,7 +156,7 @@ ERP与供应链 [ttzztztz_2021年春](https://github.com/ttzztztz/sse-erp)
 
 ### CSE 大一
 
-C语言程序设计实验 [jingfelix-2020](https://github.com/jingfelix/HUST-C-Programming-language)
+C语言程序设计实验 [jingfelix-2020](https://github.com/jingfelix/HUST-C-Programming-language)  [tttturtle-2021](https://github.com/loveforzx/tttturtle-2021)
 
 ### CSE 大二
 
@@ -221,6 +221,8 @@ Polyv-cn平台网络课程自动签到脚本 [polyv-fucker](https://github.com/t
 SARS-CoV-2每日健康状况自动上报 [misaka7690的改进版本](https://github.com/misaka7690/HUST-2019-ncov-submit-fucker) [winderica的无GUI版本](https://github.com/winderica/DailyReport)
 
 百度文档免券下载(已上云,支持原格式) [gufeijun](https://github.com/gufeijun/baiduwenku-go)
+
+军理/军事理论电子电气资源网线上作业答案自动填充脚本 [gongchen618](https://github.com/gongchen618/HUST-MT-Helper)
 
 ### CS/SE/CSE only
 
