@@ -49,7 +49,7 @@ else:
 ```diff 
 # [dedepreacted soon]⬇️
 ```
-大学物理网考答案(更新的版本,保留作者信息) [html](https://dl.recolic.net/res/phyOnlineExam.unix.utf8.html) [html.gz](https://github.com/recolic/awesome-hust/blob/master/res/phyOnlineExam.unix.utf8.html.gz)
+大学物理网考答案(更新的版本,保留作者信息) [html](https://recolic.net/archived/old-dl-site/res/phyOnlineExam.unix.utf8.html) [html.gz](https://github.com/recolic/awesome-hust/blob/master/res/phyOnlineExam.unix.utf8.html.gz)
 [txt](https://github.com/recolic/awesome-hust/blob/master/res/phyOnlineExam.unix.utf8.txt) [xlsx](https://github.com/misaka7690/Data-collation/blob/master/answer.xlsx)
 
 > why dedepreacted soon?
@@ -80,9 +80,9 @@ HustLaTeX模板库 [Github](https://github.com/hust-latex) [Website](https://hus
 
 C课设 [zxc479773533](https://github.com/zxc479773533/C-curriculum-design) [ladlod-2017](https://github.com/ladlod/hust_cs_ug/tree/master/c_program)
 
-C语言实验自动评测系统:用C++或Python代码交作业! [recolic](https://dl.recolic.net/res/usecpy.c)
+C语言实验自动评测系统:用C++或Python代码交作业! [recolic](https://recolic.net/archived/old-dl-site/res/usecpy.c)
 
-C语言实验自动评测系统漏洞笔记(还有一点其它东西) [Anonymous Guy](https://nmsl.party/hust-c)
+C语言实验自动评测系统漏洞笔记(还有一点其它东西) [Anonymous Guy](https://recolic.net/archived/nmsl-party-mirror/hust-c)
 
 数据结构实验 [zxc479773533](https://github.com/zxc479773533/HUST-DataStructure-Labs)
 
@@ -190,7 +190,7 @@ Polyv-cn平台网络课程自动签到脚本 [polyv-fucker](https://github.com/t
 创高体育打卡脚本 **请勿在最新创高软件使用旧的创高体育打卡脚本，已知被检测**
 [新版过检测,仅限iOS+macOS](https://github.com/CGSportFucker/FakeRunner)
 
-智享校园免费洗澡工具 [zhixiang-fucker](https://nmsl.party/zhixiang/index.html)
+智享校园免费洗澡工具 [zhixiang-fucker](https://recolic.net/archived/nmsl-party-mirror/zhixiang/index.html)
 
 适合华科校园卡的MIFARE卡复制教程 [recolic](https://gist.github.com/recolic/d7da64545e9330c8a79fed283d6955c4)
 
