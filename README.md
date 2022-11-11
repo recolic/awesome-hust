@@ -170,6 +170,8 @@ C语言程序设计实验 [jingfelix-2020](https://github.com/jingfelix/HUST-C-P
 
 ### 全校通用
 
+Markdown文档一键转换华科docx报告工具 [md2report](https://github.com/woolen-sheep/md2report) [文档](https://woolen-sheep.github.io/md2report/)
+
 微助教自动签到工具（支持普通/GPS/二维码签到）[yatm](https://github.com/ManiaciaChao/yatm)
 
 签个马 签到平台框架(支持多任务超星签到+微助教Android/Web二维码回传签到+微信通知推送) [sign-your-horse](https://github.com/naivekun/sign-your-horse) [cloudscan-android](https://github.com/naivekun/cloudscan-android) [cloudscan-web](https://github.com/EarthCompass/CloudScan-WEB)
