@@ -40,28 +40,6 @@ else:
 
 ![音叉实验](https://github.com/LoveThinkinghard/HUST-Physcis-Experiments-Plot-and-Dataprocess/blob/master/%E9%9F%B3%E5%8F%89%E5%AE%9E%E9%AA%8C/damped.png)![偏振与双折射](https://github.com/LoveThinkinghard/HUST-Physcis-Experiments-Plot-and-Dataprocess/blob/master/%E5%81%8F%E6%8C%AF%E4%B8%8E%E5%8F%8C%E6%8A%98%E5%B0%84/I-%CE%B8%20on%20polor%20axis.png)
 
-
-```diff 
-# [dedepreacted soon]⬇️
-```
-大学物理网考答案 [recolic](https://github.com/recolic/awesome-hust/blob/master/res/PhyExpExamAnswer.csv) 
-
-```diff 
-# [dedepreacted soon]⬇️
-```
-大学物理网考答案(更新的版本,保留作者信息) [html](https://recolic.net/archived/old-dl-site/res/phyOnlineExam.unix.utf8.html) [html.gz](https://github.com/recolic/awesome-hust/blob/master/res/phyOnlineExam.unix.utf8.html.gz)
-[txt](https://github.com/recolic/awesome-hust/blob/master/res/phyOnlineExam.unix.utf8.txt) [xlsx](https://github.com/misaka7690/Data-collation/blob/master/answer.xlsx)
-
-> why dedepreacted soon?
-> 
-> 据可靠消息之后的网考切换至超星，故如果没有办法把以前的图片数据也爬下来+OCR的话，那么这个功能即将失效
->
-> usage
->
-> 如果txt版本出现乱码，你的浏览器可能不支持自动识别将要显示的txt的编码，或者使用了不正确的默认unicode编码(GB2312)。请查看html版本，或者下载后使用支持UTF-8的编辑器查看。
-
-社会实践报告(匿名) <!--[1]() [2]() [3]() -->
-
 HustLaTeX模板库 [Github](https://github.com/hust-latex) [Website](https://hust-latex.github.io/)
 
 毕业论文LaTeX模板 [本科-Github](https://github.com/skinaze/HUSTPaperTemp) [研究生-CTAN](https://ctan.org/pkg/hustthesis)  
@@ -219,10 +197,6 @@ Polyv-cn平台网络课程自动签到脚本 [polyv-fucker](https://github.com/t
 华中大微校园-应用中心 [不必使用微信打开](http://m.hust.edu.cn/wechat/apps_center.jsp)
 
 新版(2020)统一身份认证登录库 [libhustpass(Python)](https://github.com/naivekun/libhustpass)  [node-hustpass(Node.js)](https://github.com/ManiaciaChao/node-hustpass)
-
-SARS-CoV-2每日健康状况自动上报 [misaka7690的改进版本](https://github.com/misaka7690/HUST-2019-ncov-submit-fucker) [winderica的无GUI版本](https://github.com/winderica/DailyReport)
-
-百度文档免券下载(已上云,支持原格式) [gufeijun](https://github.com/gufeijun/baiduwenku-go)
 
 军理/军事理论电子电气资源网线上作业答案自动填充脚本 [gongchen618](https://github.com/gongchen618/HUST-MT-Helper)
 
