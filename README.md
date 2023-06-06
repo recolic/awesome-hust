@@ -78,11 +78,17 @@ C语言实验自动评测系统漏洞笔记(还有一点其它东西) [Anonymous
 
 verilog实验 [zxc479773533](https://github.com/zxc479773533/HUST-Verilog-Labs)
 
+计算机系统基础 [olivercai](https://github.com/Oliver-242/HUST-Foundation-of-Computer-System)
+
 ### CS 大三
 
-操作系统 [zxc479773533](https://github.com/zxc479773533/HUST-OperatingSystem-Labs) [ladlod](https://github.com/ladlod/hust_cs_ug/tree/master/linux_proc)
+嵌入式系统实验 [olivercai_2022](https://github.com/Oliver-242/HUST-Embedded-System)
 
-数据库 [zxc479773533](https://github.com/zxc479773533/HUST-Database-Design) [ladlod(java)](https://github.com/ladlod/hust_cs_ug/tree/master/database)
+操作系统 [zxc479773533](https://github.com/zxc479773533/HUST-OperatingSystem-Labs) [ladlod](https://github.com/ladlod/hust_cs_ug/tree/master/linux_proc) [olivercai(pke2022)](https://github.com/Oliver-242/HUST-Operating-System-PKE)
+
+数据库实验 [zxc479773533](https://github.com/zxc479773533/HUST-Database-Design) [ladlod(java)](https://github.com/ladlod/hust_cs_ug/tree/master/database) [olivercai(opengauss2022)](https://github.com/Oliver-242/HUST-database-opengauss)
+
+编译原理实验 [olivercai_2023](https://github.com/Oliver-242/HUST-Compiler-Principles-Experiment)
 
 计算机系统结构 [recolic(作业答案+实验+期末考试卷)](https://git.recolic.net/recolic-hust/hust-homeworks-bundle/-/tree/master/system-architecture)
 
