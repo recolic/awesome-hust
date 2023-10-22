@@ -54,7 +54,9 @@ HustLaTeX模板库 [Github](https://github.com/hust-latex) [Website](https://hus
 
 ### CS 通用
 
-计科大多数实验的代码/报告 [husixu2](https://github.com/husixu1/HUST-Homeworks) [sabertazimi](https://github.com/sabertazimi/hust-lab) [WhatAboutMyStar](https://github.com/WhatAboutMyStar/HUSTDoubleDegree) [HUSTERS](https://github.com/HUSTERGS/HUSTCS) [AlexFanw](https://github.com/AlexFanw/HUSTER-CS) [winderica](https://github.com/winderica/GoodbyeHUST) [recolic](https://git.recolic.net/recolic-hust/hust-homeworks-bundle)([recolic-mirror](https://github.com/recolic/hust-homeworks-bundle))
+> 很多贡献者毕业之后会把全部资料整合为一个仓库, 因此不会再逐项列出. 请不要忘记查看.
+
+计科大多数课程的代码/报告 [husixu2](https://github.com/husixu1/HUST-Homeworks) [sabertazimi](https://github.com/sabertazimi/hust-lab) [WhatAboutMyStar](https://github.com/WhatAboutMyStar/HUSTDoubleDegree) [HUSTERS](https://github.com/HUSTERGS/HUSTCS) [AlexFanw](https://github.com/AlexFanw/HUSTER-CS) [winderica](https://github.com/winderica/GoodbyeHUST) [recolic](https://git.recolic.net/recolic-hust/hust-homeworks-bundle)([recolic-mirror](https://github.com/recolic/hust-homeworks-bundle))
 
 Sukuna的个人学解:[Sukuna](https://github.com/SukunaShinmyoumaru-hust/Hust-opensource-Xuejie)
 
@@ -90,11 +92,9 @@ verilog实验 [zxc479773533](https://github.com/zxc479773533/HUST-Verilog-Labs)
 
 编译原理实验 [olivercai_2023](https://github.com/Oliver-242/HUST-Compiler-Principles-Experiment)
 
-计算机系统结构 [recolic(作业答案+实验+期末考试卷)](https://git.recolic.net/recolic-hust/hust-homeworks-bundle/-/tree/master/system-architecture)
-
 ### CS 大四
 
-生产实习报告 [recolic(脱敏)](https://git.recolic.net/recolic-hust/intern-report)
+生产实习报告 [recolic](https://git.recolic.net/recolic-hust/intern-report)
 
 人工智能实验 [ladlod(hanoi)](https://github.com/ladlod/hust_cs_ug/tree/master/aiExp)
 
