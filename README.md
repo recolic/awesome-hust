@@ -92,11 +92,17 @@ verilog实验 [zxc479773533](https://github.com/zxc479773533/HUST-Verilog-Labs)
 
 编译原理实验 [olivercai_2023](https://github.com/Oliver-242/HUST-Compiler-Principles-Experiment)
 
+大数据管理 [tung](https://github.com/Elubrazione/bdm_labs_hust)
+
+计算机视觉 [tung](https://github.com/Elubrazione/cv_labs_hust)
+
 ### CS 大四
 
 生产实习报告 [recolic](https://git.recolic.net/recolic-hust/intern-report)
 
 人工智能实验 [ladlod(hanoi)](https://github.com/ladlod/hust_cs_ug/tree/master/aiExp)
+
+图神经网络实验 [tung](https://github.com/Elubrazione/gnn_lab_hust)
 
 综合能力培养-NEMU  [niuyinmei](https://github.com/niuyinmei/ICS2018/) [ladlod(到PA3.2)](https://github.com/ladlod/ics_2018)
 
