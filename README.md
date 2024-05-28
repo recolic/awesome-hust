@@ -44,9 +44,7 @@ HustLaTeX模板库 [Github](https://github.com/hust-latex) [Website](https://hus
 
 毕业论文LaTeX模板 [本科-Github](https://github.com/skinaze/HUSTPaperTemp) [研究生-CTAN](https://ctan.org/pkg/hustthesis)  
 
-2023年本科毕业论文LaTeX模版 [Sukuna](https://github.com/SukunaShinmyoumaru-hust/Hust-undergraduate-thesis)
-
-毕业论文Markdown2pdf(latex中转) [Github](https://github.com/pyrocat101/hust-thesis-pandoc)  
+2023年本科毕业论文LaTeX模版 [Sukuna](https://github.com/SukunaShinmyoumaru-hust/template-of-thesis)
 
 动态网页设计公选课 [2018年秋](https://github.com/ttzztztz/Dynamic-Web-Design-Homework) [2020年秋](https://github.com/ttzztztz/Dynamic-Web-Course-Homework)
 
