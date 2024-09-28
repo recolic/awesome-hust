@@ -96,6 +96,8 @@ verilog实验 [zxc479773533](https://github.com/zxc479773533/HUST-Verilog-Labs)
 
 计算机视觉 [tung](https://github.com/Elubrazione/cv_labs_hust)
 
+接口技术实验 [eliaukz](https://github.com/eliaukz/hust_rvfpga)
+
 ### CS 大四
 
 生产实习报告 [recolic](https://git.recolic.net/recolic-hust/intern-report)
