@@ -76,25 +76,25 @@ C语言实验自动评测系统漏洞笔记(还有一点其它东西) [Anonymous
 
 汇编实验 [qzwlecr-2018](https://github.com/qzwlecr/80x86-asm-learning)
 
-数电实验 [zxc479773533](https://github.com/zxc479773533/HUST-Verilog-Labs) [uniqueFranky]([GitHub - uniqueFranky/HUST-Digital-Logic-Circuit-Experiment-Cyclocomputer](https://github.com/uniqueFranky/HUST-Digital-Logic-Circuit-Experiment-Cyclocomputer))
+数电实验 [zxc479773533](https://github.com/zxc479773533/HUST-Verilog-Labs) [uniqueFranky](https://github.com/uniqueFranky/HUST-Digital-Logic-Circuit-Experiment-Cyclocomputer)
 
 verilog实验 [zxc479773533](https://github.com/zxc479773533/HUST-Verilog-Labs)
 
 计算机系统基础 [olivercai](https://github.com/Oliver-242/HUST-Foundation-of-Computer-System)
 
-机器学习 [uniqueFranky]([GitHub - uniqueFranky/BinaryClassifierBasedOnAdapitiveBoost](https://github.com/uniqueFranky/BinaryClassifierBasedOnAdapitiveBoost))
+机器学习 [uniqueFranky](https://github.com/uniqueFranky/BinaryClassifierBasedOnAdapitiveBoost)
 
-计算机组成原理 [uniqueFranky]([GitHub - uniqueFranky/cpu21-riscv](https://github.com/uniqueFranky/cpu21-riscv))
+计算机组成原理 [uniqueFranky](https://github.com/uniqueFranky/cpu21-riscv)
 
-人工智能导论 [uniqueFranky]([GitHub - uniqueFranky/gobang](https://github.com/uniqueFranky/gobang))
+人工智能导论 [uniqueFranky](https://github.com/uniqueFranky/gobang)
 
-大数据导论 [uniqueFranky]([GitHub - uniqueFranky/FilmRelation](https://github.com/uniqueFranky/FilmRelation))
+大数据导论 [uniqueFranky](https://github.com/uniqueFranky/FilmRelation)
 
 ### CS 大三
 
-嵌入式系统实验 [olivercai_2022](https://github.com/Oliver-242/HUST-Embedded-System) [uniqueFranky]([GitHub - uniqueFranky/Embedded-System](https://github.com/uniqueFranky/Embedded-System))
+嵌入式系统实验 [olivercai_2022](https://github.com/Oliver-242/HUST-Embedded-System) [uniqueFranky](https://github.com/uniqueFranky/Embedded-System)
 
-操作系统 [zxc479773533](https://github.com/zxc479773533/HUST-OperatingSystem-Labs) [ladlod](https://github.com/ladlod/hust_cs_ug/tree/master/linux_proc) [olivercai(pke2022)](https://github.com/Oliver-242/HUST-Operating-System-PKE) [uniqueFranky]([GitHub - uniqueFranky/riscv-pke: An Operating System running on RISC-V machines simulated by spike.](https://github.com/uniqueFranky/riscv-pke))
+操作系统 [zxc479773533](https://github.com/zxc479773533/HUST-OperatingSystem-Labs) [ladlod](https://github.com/ladlod/hust_cs_ug/tree/master/linux_proc) [olivercai(pke2022)](https://github.com/Oliver-242/HUST-Operating-System-PKE) [uniqueFranky](https://github.com/uniqueFranky/riscv-pke)
 
 数据库实验 [zxc479773533](https://github.com/zxc479773533/HUST-Database-Design) [ladlod(java)](https://github.com/ladlod/hust_cs_ug/tree/master/database) [olivercai(opengauss2022)](https://github.com/Oliver-242/HUST-database-opengauss)
 
@@ -106,7 +106,7 @@ verilog实验 [zxc479773533](https://github.com/zxc479773533/HUST-Verilog-Labs)
 
 接口技术实验 [riscv-fpge](https://github.com/Glidezz/hust_rvfpga)
 
-网络空间安全概论 [uniqueFranky]([GitHub - uniqueFranky/ImageEncryptor](https://github.com/uniqueFranky/ImageEncryptor))
+网络空间安全概论 [uniqueFranky](https://github.com/uniqueFranky/ImageEncryptor)
 
 ### CS 大四
 
