@@ -56,7 +56,7 @@ HustLaTeX模板库 [Github](https://github.com/hust-latex) [Website](https://hus
 
 > 很多贡献者毕业之后会把全部资料整合为一个仓库, 因此不会再逐项列出. 请不要忘记查看.
 
-计科大多数课程的代码/报告 [husixu2](https://github.com/husixu1/HUST-Homeworks) [sabertazimi](https://github.com/sabertazimi/hust-lab) [WhatAboutMyStar](https://github.com/WhatAboutMyStar/HUSTDoubleDegree) [HUSTERS](https://github.com/HUSTERGS/HUSTCS) [AlexFanw](https://github.com/AlexFanw/HUSTER-CS) [winderica](https://github.com/winderica/GoodbyeHUST) [recolic](https://git.recolic.net/recolic-hust/hust-homeworks-bundle)([recolic-mirror](https://github.com/recolic/hust-homeworks-bundle))
+计科大多数课程的代码/报告 [husixu2](https://github.com/husixu1/HUST-Homeworks) [sabertazimi](https://github.com/sabertazimi/hust-lab) [WhatAboutMyStar](https://github.com/WhatAboutMyStar/HUSTDoubleDegree) [HUSTERS](https://github.com/HUSTERGS/HUSTCS) [AlexFanw](https://github.com/AlexFanw/HUSTER-CS) [winderica](https://github.com/winderica/GoodbyeHUST) [recolic](https://git.recolic.net/recolic-hust/hust-homeworks-bundle)([recolic-mirror](https://github.com/recolic/hust-homeworks-bundle)) [Nuyoahwjl](https://github.com/Nuyoahwjl/HUST-CS)
 
 Sukuna的个人学解:[Sukuna](https://github.com/SukunaShinmyoumaru-hust/Hust-opensource-Xuejie)
 
